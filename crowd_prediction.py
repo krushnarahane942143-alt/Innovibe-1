@@ -76,12 +76,6 @@ def predict_crowd(destination_name, date_str):
 
     return "low"
 
-print(predict_crowd("Goa Beach", "2026-09-09"))
-print(predict_crowd("Dudhsagar Falls", "2026-10-20"))   # festival date -> should be "high"
-print(predict_crowd("Palolem Beach", "2026-09-12"))      # weekend but low-pattern -> should be "medium"
-print(predict_crowd("Made Up Place", "2026-09-12"))  
-
-
 def get_alternatives(destination_name, top_n=3):
     # find the destination we're trying to find alternatives for
     target = None
@@ -119,4 +113,10 @@ def get_alternatives(destination_name, top_n=3):
     return candidates[:top_n]
 
 
-print(get_alternatives("Goa Beach"))     # doesn't exist -> should be "unknown destination"
+if __name__ == "__main__":
+    print(predict_crowd("Goa Beach", "2026-09-09"))
+    print(predict_crowd("Dudhsagar Falls", "2026-10-20"))   # festival date -> should be "high"
+    print(predict_crowd("Palolem Beach", "2026-09-12"))      # weekend but low-pattern -> should be "medium"
+    print(predict_crowd("Made Up Place", "2026-09-12"))
+
+    print(get_alternatives("Goa Beach"))     # doesn't exist -> should be "unknown destination"
