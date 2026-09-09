@@ -1,3 +1,13 @@
+"""
+crowd_prediction.py
+-------------------
+Functions:
+  - predict_crowd(destination_name, date_str)
+      Predict crowd level ("low"/"medium"/"high") for a destination on a given date.
+  - get_alternatives(destination_name, top_n=3)
+      Return up to top_n similar destinations in the same city, ranked by tag overlap then rating.
+"""
+
 from datetime import datetime
 
 destinations = [
@@ -46,6 +56,21 @@ festival_dates = [
 ]
 
 def predict_crowd(destination_name, date_str):
+    """Predict the crowd level for a destination on a given date.
+
+    Parameters:
+        destination_name (str): Name of the destination, matching the "name"
+            field in the `destinations` list (e.g. "Goa Beach").
+        date_str (str): Date in "YYYY-MM-DD" format (e.g. "2026-09-12").
+
+    Returns:
+        str: One of "low", "medium", or "high" indicating predicted crowd level.
+        dict: {"error": "unknown destination"} if destination_name is not found.
+
+    Invalid input:
+        Returns {"error": "unknown destination"} if the name doesn't match any
+        known destination.
+    """
     # date_str looks like "2026-09-12"
     date_obj = datetime.strptime(date_str, "%Y-%m-%d")
     is_weekend = date_obj.weekday() >= 5  # Saturday=5, Sunday=6
@@ -60,7 +85,7 @@ def predict_crowd(destination_name, date_str):
             break
 
     if dest is None:
-        return "unknown destination"
+        return {"error": "unknown destination"}
 
     if is_festival:
         if dest["crowd_pattern"] in ["weekend_high", "festival_high"]:
@@ -77,6 +102,25 @@ def predict_crowd(destination_name, date_str):
     return "low"
 
 def get_alternatives(destination_name, top_n=3):
+    """Find similar alternative destinations in the same city.
+
+    Parameters:
+        destination_name (str): Name of the destination to find alternatives for,
+            matching the "name" field in the `destinations` list.
+        top_n (int, optional): Maximum number of alternatives to return.
+            Defaults to 3.
+
+    Returns:
+        list[dict]: Up to top_n candidate destinations, each with keys:
+            "name" (str), "overlap_score" (int), "rating" (float),
+            "crowd_pattern" (str). Sorted by overlap_score then rating,
+            descending.
+        dict: {"error": "unknown destination"} if destination_name is not found.
+
+    Invalid input:
+        Returns {"error": "unknown destination"} if the name doesn't match any
+        known destination.
+    """
     # find the destination we're trying to find alternatives for
     target = None
     for d in destinations:
@@ -85,7 +129,7 @@ def get_alternatives(destination_name, top_n=3):
             break
 
     if target is None:
-        return "unknown destination"
+        return {"error": "unknown destination"}
 
     candidates = []
     for d in destinations:
@@ -119,4 +163,4 @@ if __name__ == "__main__":
     print(predict_crowd("Palolem Beach", "2026-09-12"))      # weekend but low-pattern -> should be "medium"
     print(predict_crowd("Made Up Place", "2026-09-12"))
 
-    print(get_alternatives("Goa Beach"))     # doesn't exist -> should be "unknown destination"
+    print(get_alternatives("Goa Beach"))     # exists -> should return list of alternatives

@@ -1,3 +1,12 @@
+"""
+itinerary_generator.py
+----------------------
+Functions:
+  - generate_itinerary(preferences, destinations)
+      Generate a multi-day travel itinerary using the Gemini API, filtered by
+      user interests. Falls back to a simple 1-day plan if the API or parsing fails.
+"""
+
 from crowd_prediction import destinations
 import os
 import json
@@ -13,15 +22,47 @@ load_dotenv()
 def generate_itinerary(preferences, destinations):
     """Generate a travel itinerary using Gemini based on user preferences.
 
-    Args:
-        preferences: dict with keys: days (int), budget (str),
-            interests (list of str), group_type (str)
-        destinations: list of dicts with keys: name, city, tags (list),
-            rating (float), crowd_pattern (str)
+    Parameters:
+        preferences (dict): Keys:
+            - days (int): Number of days for the itinerary.
+            - budget (str): One of "low", "medium", "high".
+            - interests (list[str]): Tags to match against destination tags
+              (e.g. ["beach", "culture", "nature"]).
+            - group_type (str): One of "solo", "couple", "friends", "family".
+        destinations (list[dict]): Each dict has keys:
+            - name (str), city (str), tags (list[str]), rating (float),
+              crowd_pattern (str).
 
     Returns:
-        dict: Parsed itinerary, or a fallback dict if parsing fails.
+        dict: Itinerary with shape:
+            {
+              "days": [
+                {
+                  "day": <int>,
+                  "activities": [
+                    {
+                      "time_slot": "morning"|"afternoon"|"evening",
+                      "place": <str, a name from destinations>,
+                      "duration_hours": <int>,
+                      "reason": <str>
+                    }
+                  ]
+                }
+              ]
+            }
+        dict: {"error": "no destinations provided"} if the destinations list is
+        empty and no fallback can be constructed.
+
+    Invalid input:
+        Raises RuntimeError if GEMINI_API_KEY is not set in the environment.
+        If destinations is empty, returns {"error": "no destinations provided"}.
+        If the Gemini API call or JSON parsing fails twice, returns a 1-day
+        fallback itinerary using the top-rated destination.
     """
+
+    # 0. Guard: no destinations at all
+    if not destinations:
+        return {"error": "no destinations provided"}
 
     # 1. Configure Gemini API key from .env (never hardcoded)
     api_key = os.getenv("GEMINI_API_KEY")
