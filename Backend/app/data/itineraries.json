@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "name": "Parisian Romance",
+    "destination_id": 1,
+    "days": 3,
+    "activities": [1, 2, 3]
+  },
+  {
+    "id": 2,
+    "name": "Tokyo Tech Tour",
+    "destination_id": 2,
+    "days": 4,
+    "activities": [4, 5, 6]
+  },
+  {
+    "id": 3,
+    "name": "Ancient Rome Exploration",
+    "destination_id": 4,
+    "days": 2,
+    "activities": [10, 11, 12]
+  }
+]

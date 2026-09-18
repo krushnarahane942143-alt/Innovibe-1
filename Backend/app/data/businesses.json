@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "destination_id": 1,
+    "name": "Eiffel Tower",
+    "category": "Landmark",
+    "rating": 4.8,
+    "crowd": "HIGH"
+  },
+  {
+    "id": 2,
+    "destination_id": 1,
+    "name": "Louvre Museum",
+    "category": "Museum",
+    "rating": 4.7,
+    "crowd": "HIGH"
+  },
+  {
+    "id": 3,
+    "destination_id": 1,
+    "name": "Le Comptoir",
+    "category": "Cafe",
+    "rating": 4.5,
+    "crowd": "MEDIUM"
+  },
+  {
+    "id": 4,
+    "destination_id": 2,
+    "name": "Shibuya Crossing",
+    "category": "Landmark",
+    "rating": 4.6,
+    "crowd": "HIGH"
+  },
+  {
+    "id": 5,
+    "destination_id": 2,
+    "name": "TeamLab Borderless",
+    "category": "Digital Art",
+    "rating": 4.9,
+    "crowd": "MEDIUM"
+  },
+  {
+    "id": 6,
+    "destination_id": 2,
+    "name": "Ichiran Ramen",
+    "category": "Restaurant",
+    "rating": 4.4,
+    "crowd": "HIGH"
+  },
+  {
+    "id": 7,
+    "destination_id": 3,
+    "name": "Central Park",
+    "category": "Park",
+    "rating": 4.7,
+    "crowd": "MEDIUM"
+  },
+  {
+    "id": 8,
+    "destination_id": 3,
+    "name": "Empire State Building",
+    "category": "Landmark",
+    "rating": 4.5,
+    "crowd": "HIGH"
+  },
+  {
+    "id": 9,
+    "destination_id": 3,
+    "name": "MoMA",
+    "category": "Museum",
+    "rating": 4.6,
+    "crowd": "MEDIUM"
+  },
+  {
+    "id": 10,
+    "destination_id": 4,
+    "name": "Colosseum",
+    "category": "Landmark",
+    "rating": 4.8,
+    "crowd": "HIGH"
+  },
+  {
+    "id": 11,
+    "destination_id": 4,
+    "name": "Pantheon",
+    "category": "Landmark",
+    "rating": 4.7,
+    "crowd": "MEDIUM"
+  },
+  {
+    "id": 12,
+    "destination_id": 4,
+    "name": "Gelateria Giolitti",
+    "category": "Cafe",
+    "rating": 4.9,
+    "crowd": "HIGH"
+  }
+]

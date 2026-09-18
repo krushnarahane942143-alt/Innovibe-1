@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Paris",
+    "country": "France",
+    "description": "The City of Light, known for art, fashion, and gastronomy.",
+    "region": "Europe"
+  },
+  {
+    "id": 2,
+    "name": "Tokyo",
+    "country": "Japan",
+    "description": "A bustling metropolis blending ultramodern and traditional.",
+    "region": "Asia"
+  },
+  {
+    "id": 3,
+    "name": "New York City",
+    "country": "USA",
+    "description": "The Big Apple, a global hub of finance and culture.",
+    "region": "North America"
+  },
+  {
+    "id": 4,
+    "name": "Rome",
+    "country": "Italy",
+    "description": "The Eternal City, rich in ancient history and architecture.",
+    "region": "Europe"
+  },
+  {
+    "id": 5,
+    "name": "Sydney",
+    "country": "Australia",
+    "description": "Famous for its harbor, opera house, and beautiful beaches.",
+    "region": "Oceania"
+  }
+]
