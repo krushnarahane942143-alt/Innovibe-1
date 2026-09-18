@@ -1,0 +1,301 @@
+name,city,tags,rating,crowd_pattern
+Kempty Falls,Dehradun,"waterfall, nature, relaxed",4.3,weekend_high
+Rumtek Monastery,Gangtok,"religious, culture, history",4.6,weekend_high
+Rameswaram,Ramanathapuram,"religious, beach, history",4.7,festival_high
+Tawang Monastery,Tawang,"religious, culture, history",4.8,festival_high
+Shalimar Bagh,Srinagar,"nature, history, relaxed",4.6,weekend_high
+Keibul Lamjao National Park,Bishnupur,"wildlife, nature, adventure",4.6,low
+Om Beach,Gokarna,"beach, sunset, relaxed",4.6,weekend_high
+Vantawng Falls,Serchhip,"waterfall, nature, relaxed",4.6,low
+Ayodhya Ram Mandir,Ayodhya,"religious, culture, history",4.9,festival_high
+Silent Valley,Palakkad,"wildlife, nature, hiking",4.8,low
+Chandipur Beach,Balasore,"beach, nature, relaxed",4.5,low
+Kalpeni Island,Lakshadweep,"beach, sunset, relaxed",4.5,low
+Bangaram Island,Lakshadweep,"beach, party, relaxed",4.9,low
+Ghoghla Beach,Daman and Diu,"beach, adventure, sunset",4.5,low
+Rani ki Vav,Patan,"history, culture, relaxed",4.8,weekend_high
+Jog Falls,Shimoga,"waterfall, nature, relaxed",4.8,weekend_high
+Tadoba Andhari,Chandrapur,"wildlife, nature, adventure",4.8,weekend_high
+Papikondalu,East Godavari,"nature, relaxed, adventure",4.5,low
+Sela Pass,Tawang,"nature, adventure, relaxed",4.7,weekend_high
+Palolem Beach,Goa,"beach, sunset, relaxed",4.7,low
+Gwalior Fort,Gwalior,"history, culture, sunset",4.7,weekend_high
+Lingaraj Temple,Bhubaneswar,"religious, culture, history",4.8,festival_high
+Kufri,Shimla,"nature, adventure, relaxed",4.4,weekend_high
+Kaziranga National Park,Golaghat,"wildlife, nature, adventure",4.9,weekend_high
+Kovalam Beach,Thiruvananthapuram,"beach, sunset, relaxed",4.5,weekend_high
+Manali Mall Road,Kullu,"shopping, culture, food",4.5,weekend_high
+Cellular Jail,Andaman and Nicobar,"history, culture, relaxed",4.8,weekend_high
+Majuli Island,Majuli,"culture, nature, relaxed",4.8,festival_high
+Sukhna Lake,Chandigarh,"nature, sunset, relaxed",4.6,weekend_high
+Bastar Palace,Jagdalpur,"history, culture, relaxed",4.3,low
+Amarnath Cave,Anantnag,"religious, hiking, nature",4.8,festival_high
+Triveni Ghat,Dehradun,"religious, culture, sunset",4.8,festival_high
+Rock Garden,Chandigarh,"culture, nature, relaxed",4.5,weekend_high
+Yercaud,Salem,"nature, relaxed, sunset",4.4,weekend_high
+Srisailam,Nandyal,"religious, nature, history",4.7,festival_high
+Murdeshwar Temple,Murdeshwar,"religious, beach, sunset",4.7,festival_high
+Munnar,Idukki,"nature, relaxed, sunset",4.8,weekend_high
+Dhuandhar Falls,Jabalpur,"waterfall, nature, relaxed",4.6,weekend_high
+Kapaleeshwarar Temple,Chennai,"religious, culture, history",4.7,festival_high
+Phawngpui,Lawngtlai,"hiking, nature, adventure",4.6,low
+Bhimashankar,Pune,"religious, nature, hiking",4.6,festival_high
+Rumi Darwaza,Lucknow,"history, culture, relaxed",4.5,weekend_high
+Chilika Lake,Ganjam,"nature, wildlife, relaxed",4.7,weekend_high
+Dalhousie Khajjiar,Chamba,"nature, relaxed, sunset",4.7,weekend_high
+Elephanta Caves,Mumbai,"history, culture, religious",4.5,weekend_high
+Tarkarli Beach,Sindhudurg,"beach, adventure, relaxed",4.6,low
+Laxmi Vilas Palace,Vadodara,"history, culture, relaxed",4.7,weekend_high
+Fontainhas,Goa,"culture, history, relaxed",4.5,low
+Darjeeling Mall Road,Darjeeling,"shopping, relaxed, food",4.6,weekend_high
+Kudle Beach,Gokarna,"beach, sunset, party",4.5,weekend_high
+Agartala Ujjayanta Palace,Agartala,"history, culture, relaxed",4.5,weekend_high
+Hemis National Park,Leh,"wildlife, nature, adventure",4.7,low
+Rishikonda Beach,Visakhapatnam,"beach, adventure, sunset",4.4,weekend_high
+Konark Sun Temple,Konark,"history, culture, religious",4.9,festival_high
+Amber Fort,Jaipur,"history, culture, sunset",4.8,weekend_high
+Tiger Hill,Darjeeling,"sunset, nature, relaxed",4.8,weekend_high
+Orchha Fort Complex,Niwari,"history, culture, nature",4.6,low
+Brahma Sarovar,Kurukshetra,"religious, history, sunset",4.5,festival_high
+Bara Imambara,Lucknow,"history, culture, relaxed",4.6,weekend_high
+Gopalpur Beach,Ganjam,"beach, sunset, relaxed",4.4,low
+Lake Pichola,Udaipur,"sunset, relaxed, culture",4.8,weekend_high
+Mahabaleshwar,Satara,"nature, sunset, relaxed",4.5,weekend_high
+Dakshineswar Kali Temple,Kolkata,"religious, culture, history",4.8,festival_high
+Valmiki National Park,West Champaran,"wildlife, nature, adventure",4.5,low
+Pushkar Lake,Pushkar,"religious, culture, sunset",4.6,festival_high
+India Gate,Delhi,"history, sunset, relaxed",4.7,weekend_high
+Thiksey Monastery,Leh,"religious, culture, history",4.8,low
+Araku Valley,Visakhapatnam,"nature, relaxed, culture",4.6,weekend_high
+Agatti Island,Lakshadweep,"beach, adventure, sunset",4.8,low
+Kargil War Memorial,Kargil,"history, culture, relaxed",4.9,weekend_high
+Chandni Chowk,Delhi,"shopping, food, culture",4.6,weekend_high
+Dilwara Temples,Mount Abu,"religious, history, culture",4.8,weekend_high
+Pangong Lake,Leh,"nature, sunset, adventure",4.9,weekend_high
+Marine Drive,Mumbai,"sunset, relaxed, nightlife",4.8,weekend_high
+Guruvayur Temple,Thrissur,"religious, culture, history",4.7,festival_high
+Pelling,Gyalsing,"nature, sunset, waterfall",4.7,low
+Agra Fort,Agra,"history, culture, relaxed",4.7,weekend_high
+Kanger Valley National Park,Bastar,"wildlife, nature, adventure",4.5,low
+Bekal Fort,Kasaragod,"history, beach, sunset",4.6,low
+Saputara,Dang,"nature, relaxed, sunset",4.5,weekend_high
+Hawa Mahal,Jaipur,"history, culture, shopping",4.6,weekend_high
+Trimbakeshwar,Nashik,"religious, culture, history",4.6,festival_high
+Sonamarg,Ganderbal,"nature, hiking, adventure",4.7,weekend_high
+Umaid Bhawan Palace,Jodhpur,"history, culture, relaxed",4.7,weekend_high
+Shimla Mall Road,Shimla,"shopping, culture, food",4.6,weekend_high
+Kanyakumari,Kanyakumari,"sunset, beach, religious",4.6,weekend_high
+Dudhwa National Park,Lakhimpur Kheri,"wildlife, nature, adventure",4.6,low
+Dhanushkodi,Ramanathapuram,"beach, history, nature",4.8,low
+Keoladeo National Park,Bharatpur,"wildlife, nature, relaxed",4.7,weekend_high
+Red Fort,Delhi,"history, culture, relaxed",4.7,weekend_high
+Sivasagar Sivadol,Sivasagar,"history, religious, culture",4.5,festival_high
+Lotus Temple,Delhi,"religious, culture, relaxed",4.5,weekend_high
+Kamakhya Temple,Guwahati,"religious, culture, history",4.8,festival_high
+Dassam Falls,Ranchi,"waterfall, nature, relaxed",4.4,weekend_high
+Kaas Plateau,Satara,"nature, relaxed, sunset",4.8,festival_high
+Kodaikanal,Dindigul,"nature, relaxed, hiking",4.6,weekend_high
+Sundarbans National Park,South 24 Parganas,"wildlife, nature, adventure",4.8,weekend_high
+Double Decker Living Root Bridge,Cherrapunji,"hiking, nature, adventure",4.9,weekend_high
+Bikaner Junagarh Fort,Bikaner,"history, culture, relaxed",4.6,weekend_high
+Shantiniketan,Birbhum,"culture, history, relaxed",4.7,festival_high
+Champhai,Champhai,"nature, culture, relaxed",4.5,low
+Gateway of India,Mumbai,"history, culture, sunset",4.5,weekend_high
+Sariska Tiger Reserve,Alwar,"wildlife, nature, adventure",4.4,weekend_high
+Belum Caves,Kurnool,"history, nature, adventure",4.6,low
+Ellora Caves,Aurangabad,"history, culture, religious",4.8,weekend_high
+Key Monastery,Lahaul and Spiti,"religious, culture, history",4.8,low
+Diu Fort,Daman and Diu,"history, beach, sunset",4.6,weekend_high
+Patnitop,Udhampur,"nature, relaxed, sunset",4.4,weekend_high
+Bandhavgarh National Park,Umaria,"wildlife, nature, adventure",4.8,weekend_high
+Paradise Beach Pondy,Puducherry,"beach, relaxed, nature",4.6,low
+Kasol,Kullu,"nature, party, hiking",4.7,weekend_high
+Nalsarovar Bird Sanctuary,Ahmedabad,"wildlife, nature, sunset",4.5,weekend_high
+Golden Temple,Amritsar,"religious, culture, history",4.9,festival_high
+Sun Temple Modhera,Mehsana,"history, culture, religious",4.7,weekend_high
+Nathula Pass,East Sikkim,"adventure, nature, history",4.8,weekend_high
+Amboli,Sindhudurg,"nature, waterfall, relaxed",4.5,low
+Jolly Buoy Island,Andaman and Nicobar,"beach, nature, relaxed",4.8,low
+Devka Beach,Daman and Diu,"beach, nightlife, relaxed",4.1,weekend_high
+Mahabalipuram,Chengalpattu,"history, beach, culture",4.7,weekend_high
+Nalanda Ruins,Nalanda,"history, culture, relaxed",4.8,weekend_high
+Dumas Beach,Surat,"beach, relaxed, food",4.2,weekend_high
+Pahalgam,Anantnag,"nature, hiking, relaxed",4.7,weekend_high
+Thol Bird Sanctuary,Mehsana,"wildlife, nature, relaxed",4.4,weekend_high
+Borra Caves,Visakhapatnam,"nature, history, adventure",4.5,weekend_high
+Suru Valley,Kargil,"nature, relaxed, hiking",4.6,low
+Unakoti,Unakoti,"history, religious, nature",4.7,low
+Puri Jagannath Temple,Puri,"religious, culture, history",4.9,festival_high
+Dharamshala McLeod Ganj,Kangra,"culture, religious, hiking",4.8,weekend_high
+Magnetic Hill,Leh,"nature, adventure, relaxed",4.5,weekend_high
+Mussoorie Mall Road,Dehradun,"shopping, nature, food",4.5,weekend_high
+Jallianwala Bagh,Amritsar,"history, culture, relaxed",4.8,weekend_high
+Mysore Palace,Mysore,"history, culture, shopping",4.8,festival_high
+Manas National Park,Baksa,"wildlife, nature, adventure",4.7,low
+Ziro Valley,Lower Subansiri,"culture, nature, relaxed",4.8,festival_high
+Gokarna Main Beach,Gokarna,"beach, religious, sunset",4.2,weekend_high
+Murud Janjira Fort,Raigad,"history, nature, adventure",4.6,weekend_high
+Umananda Island,Guwahati,"religious, nature, sunset",4.5,weekend_high
+Kalsubai Peak,Ahmednagar,"hiking, adventure, nature",4.7,weekend_high
+Sanjay Gandhi National Park,Mumbai,"wildlife, nature, hiking",4.2,weekend_high
+Kankaria Lake,Ahmedabad,"relaxed, food, party",4.5,weekend_high
+Zanskar Valley,Kargil,"nature, adventure, hiking",4.8,low
+Meenakshi Temple,Madurai,"religious, culture, history",4.9,festival_high
+Fort St. George,Chennai,"history, culture, relaxed",4.3,weekend_high
+Patna Sahib,Patna,"religious, culture, history",4.7,festival_high
+Vrindavan,Mathura,"religious, culture, history",4.7,festival_high
+Fort Aguada,Goa,"history, sunset, nature",4.4,weekend_high
+Nagoa Beach,Daman and Diu,"beach, party, relaxed",4.4,weekend_high
+Ramoji Film City,Hyderabad,"culture, adventure, party",4.5,weekend_high
+Akshardham Gandhinagar,Gandhinagar,"religious, culture, relaxed",4.8,weekend_high
+Bhimbetka Rock Shelters,Raisen,"history, culture, nature",4.7,weekend_high
+Loktak Lake,Bishnupur,"nature, wildlife, relaxed",4.7,weekend_high
+Humayuns Tomb,Delhi,"history, culture, relaxed",4.8,weekend_high
+Udayagiri Caves,Bhubaneswar,"history, culture, nature",4.5,weekend_high
+Elephant Beach,Andaman and Nicobar,"beach, adventure, waterfall",4.7,weekend_high
+Kumarakom,Kottayam,"nature, relaxed, wildlife",4.6,low
+Wagah Border,Amritsar,"culture, history, relaxed",4.8,weekend_high
+Garo Hills,West Garo Hills,"nature, hiking, wildlife",4.6,low
+Marina Beach,Chennai,"beach, food, sunset",4.4,weekend_high
+Sinhagad Fort,Pune,"history, hiking, nature",4.6,weekend_high
+Mawlynnong,East Khasi Hills,"nature, culture, relaxed",4.6,low
+Nagarhole National Park,Kodagu,"wildlife, nature, adventure",4.7,weekend_high
+Dawki River,West Jaintia Hills,"nature, adventure, relaxed",4.7,weekend_high
+Jantar Mantar Jaipur,Jaipur,"history, culture, relaxed",4.5,weekend_high
+Baga Beach,Goa,"beach, nightlife, party",4.5,weekend_high
+Chandratal Lake,Lahaul and Spiti,"nature, adventure, sunset",4.9,low
+Teerathgarh Falls,Bastar,"waterfall, nature, hiking",4.6,low
+Baratang Island,Andaman and Nicobar,"nature, adventure, wildlife",4.6,low
+Mudumalai National Park,Nilgiris,"wildlife, nature, adventure",4.5,weekend_high
+Sabarmati Ashram,Ahmedabad,"history, culture, relaxed",4.6,weekend_high
+Yarada Beach,Visakhapatnam,"beach, nature, relaxed",4.6,low
+Brahma Temple,Pushkar,"religious, culture, history",4.5,festival_high
+Somnath Temple,Gir Somnath,"religious, culture, history",4.9,festival_high
+Mehrangarh Fort,Jodhpur,"history, culture, sunset",4.9,weekend_high
+Pratapgad Fort,Satara,"history, nature, hiking",4.7,weekend_high
+Akshardham Delhi,Delhi,"religious, culture, history",4.8,weekend_high
+Dudhsagar Waterfalls,Goa,"waterfall, nature, adventure",4.8,weekend_high
+Dzukou Valley,Kohima,"hiking, nature, relaxed",4.9,weekend_high
+Coonoor,Nilgiris,"nature, relaxed, hiking",4.6,low
+Auli,Chamoli,"adventure, nature, relaxed",4.8,weekend_high
+Triund Trek,Kangra,"hiking, nature, sunset",4.8,weekend_high
+Omkareshwar,Khandwa,"religious, culture, history",4.8,festival_high
+Qutub Minar,Delhi,"history, culture, relaxed",4.6,weekend_high
+Jim Corbett National Park,Nainital,"wildlife, nature, adventure",4.8,weekend_high
+Gir National Park,Junagadh,"wildlife, nature, adventure",4.9,weekend_high
+Neermahal,Sepahijala,"history, culture, nature",4.6,low
+Kalimpong,Kalimpong,"nature, culture, relaxed",4.6,low
+Pinjore Gardens,Panchkula,"nature, history, relaxed",4.4,weekend_high
+Spiti Valley,Lahaul and Spiti,"nature, adventure, culture",4.9,low
+Taj Mahal,Agra,"history, culture, sunset",4.9,weekend_high
+Agumbe,Shimoga,"nature, sunset, wildlife",4.6,low
+Raigad Fort,Raigad,"history, hiking, nature",4.8,weekend_high
+Jampore Beach,Daman and Diu,"beach, relaxed, food",4.3,weekend_high
+Kinnaur Kailash,Kinnaur,"nature, religious, hiking",4.7,low
+Elephant Falls,Shillong,"waterfall, nature, relaxed",4.5,weekend_high
+Nohkalikai Falls,Cherrapunji,"waterfall, nature, relaxed",4.8,weekend_high
+Jaisalmer Fort,Jaisalmer,"history, culture, sunset",4.8,weekend_high
+Badrinath Temple,Chamoli,"religious, culture, history",4.9,festival_high
+Golden Beach,Puri,"beach, sunset, relaxed",4.5,weekend_high
+Dwarkadhish Temple,Devbhumi Dwarka,"religious, culture, history",4.8,festival_high
+City Palace Jaipur,Jaipur,"history, culture, shopping",4.7,weekend_high
+Mirik,Darjeeling,"nature, relaxed, sunset",4.4,low
+Yumthang Valley,Mangan,"nature, relaxed, sunset",4.8,weekend_high
+Dongargarh,Rajnandgaon,"religious, nature, hiking",4.4,festival_high
+Sam Sand Dunes,Jaisalmer,"adventure, nature, sunset",4.7,weekend_high
+Dirang,West Kameng,"nature, culture, relaxed",4.6,low
+Khonoma Village,Kohima,"culture, nature, history",4.8,low
+Mainpat,Surguja,"nature, culture, relaxed",4.5,low
+Har Ki Pauri,Haridwar,"religious, culture, history",4.8,festival_high
+Nainital Lake,Nainital,"nature, relaxed, sunset",4.6,weekend_high
+Pondicherry French Quarter,Puducherry,"culture, relaxed, food",4.8,weekend_high
+Paradise Beach,Gokarna,"beach, hiking, relaxed",4.8,low
+Deoghar,Deoghar,"religious, culture, history",4.7,festival_high
+Sarnath,Varanasi,"history, religious, culture",4.7,weekend_high
+Radhanagar Beach,Andaman and Nicobar,"beach, sunset, nature",4.9,weekend_high
+Cherrapunji,East Khasi Hills,"waterfall, nature, hiking",4.8,weekend_high
+Mathura Krishna Janmabhoomi,Mathura,"religious, culture, history",4.8,festival_high
+Statue of Unity,Narmada,"culture, history, relaxed",4.8,weekend_high
+Rann of Kutch,Kutch,"nature, culture, sunset",4.8,festival_high
+Dal Lake,Srinagar,"nature, sunset, relaxed",4.8,weekend_high
+Tsomgo Lake,East Sikkim,"nature, adventure, relaxed",4.7,weekend_high
+Athirappilly Waterfalls,Thrissur,"waterfall, nature, relaxed",4.7,weekend_high
+Wandoor Beach,Andaman and Nicobar,"beach, relaxed, nature",4.5,low
+Auroville,Puducherry,"culture, relaxed, nature",4.7,weekend_high
+Howrah Bridge,Kolkata,"culture, history, sunset",4.7,weekend_high
+Charminar,Hyderabad,"history, culture, shopping",4.6,weekend_high
+City Palace Udaipur,Udaipur,"history, culture, sunset",4.8,weekend_high
+Ajanta Caves,Aurangabad,"history, culture, religious",4.9,weekend_high
+Ranthambore National Park,Sawai Madhopur,"wildlife, nature, adventure",4.8,weekend_high
+Padmanabhaswamy Temple,Thiruvananthapuram,"religious, culture, history",4.8,festival_high
+Khandala,Pune,"nature, hiking, relaxed",4.2,weekend_high
+Kakolat Waterfall,Nawada,"waterfall, nature, relaxed",4.4,weekend_high
+Jonha Falls,Ranchi,"waterfall, nature, relaxed",4.3,weekend_high
+Chittorgarh Fort,Chittorgarh,"history, culture, nature",4.7,weekend_high
+Solang Valley,Kullu,"adventure, nature, relaxed",4.7,weekend_high
+Pench National Park,Seoni,"wildlife, nature, adventure",4.7,weekend_high
+Marari Beach,Alappuzha,"beach, relaxed, nature",4.7,low
+Kheerganga,Kullu,"hiking, nature, adventure",4.8,weekend_high
+Nanda Devi National Park,Chamoli,"wildlife, nature, hiking",4.7,low
+Varanasi Ghats,Varanasi,"religious, culture, sunset",4.9,festival_high
+Bhujia Fort,Bhuj,"history, sunset, hiking",4.4,low
+Promenade Beach,Puducherry,"beach, sunset, relaxed",4.5,weekend_high
+Simlipal National Park,Mayurbhanj,"wildlife, nature, adventure",4.6,low
+Hundru Falls,Ranchi,"waterfall, nature, relaxed",4.5,weekend_high
+Chikmagalur,Chikmagalur,"nature, relaxed, hiking",4.6,weekend_high
+Brihadeeswarar Temple,Thanjavur,"history, religious, culture",4.9,festival_high
+Old Manali,Kullu,"culture, party, food",4.6,weekend_high
+Jakhoo Temple,Shimla,"religious, nature, hiking",4.5,weekend_high
+Hampi,Vijayanagara,"history, culture, sunset",4.9,weekend_high
+Fatehpur Sikri,Agra,"history, culture, religious",4.6,weekend_high
+Reiek,Mamit,"hiking, nature, sunset",4.7,low
+Kashid Beach,Raigad,"beach, sunset, relaxed",4.4,low
+Triveni Sangam,Prayagraj,"religious, culture, history",4.8,festival_high
+Khardung La,Leh,"adventure, nature, history",4.7,weekend_high
+Uparkot Fort,Junagadh,"history, culture, nature",4.5,low
+Pachmarhi,Narmadapuram,"nature, waterfall, sunset",4.7,weekend_high
+Bomdila,West Kameng,"nature, culture, relaxed",4.5,low
+Batasia Loop,Darjeeling,"history, nature, relaxed",4.5,weekend_high
+Marble Rocks,Jabalpur,"nature, adventure, sunset",4.7,weekend_high
+Sirpur,Mahasamund,"history, religious, culture",4.4,low
+Hussain Sagar,Hyderabad,"sunset, relaxed, food",4.3,weekend_high
+Chitrakoot Falls,Bastar,"waterfall, nature, relaxed",4.8,weekend_high
+Mandvi Beach,Kutch,"beach, sunset, relaxed",4.5,low
+Nubra Valley,Leh,"nature, adventure, culture",4.8,weekend_high
+Gulmarg Gondola,Baramulla,"adventure, nature, relaxed",4.9,weekend_high
+Wayanad,Wayanad,"nature, hiking, waterfall",4.7,weekend_high
+Neil Island,Andaman and Nicobar,"beach, sunset, relaxed",4.7,low
+Kedarnath Temple,Rudraprayag,"religious, hiking, history",4.9,festival_high
+Gurudongmar Lake,Mangan,"nature, adventure, relaxed",4.9,weekend_high
+Rajgir,Nalanda,"history, religious, nature",4.6,weekend_high
+Shirdi,Ahmednagar,"religious, culture, history",4.7,festival_high
+Half Moon Beach,Gokarna,"beach, relaxed, nature",4.7,low
+Bhitarkanika National Park,Kendrapara,"wildlife, nature, adventure",4.7,low
+Mandu,Dhar,"history, culture, nature",4.6,low
+Ravangla,Namchi,"nature, culture, relaxed",4.6,low
+Coorg,Madikeri,"nature, relaxed, food",4.7,weekend_high
+Ghatshila,East Singhbhum,"nature, relaxed, sunset",4.2,low
+Ooty,Nilgiris,"nature, relaxed, shopping",4.5,weekend_high
+Rishikesh Laxman Jhula,Dehradun,"religious, culture, adventure",4.7,weekend_high
+Polo Forest,Sabarkantha,"nature, history, hiking",4.6,low
+Harishchandragad,Ahmednagar,"hiking, history, nature",4.8,weekend_high
+Namdapha National Park,Changlang,"wildlife, nature, hiking",4.6,low
+Sanchi Stupa,Raisen,"history, religious, culture",4.8,weekend_high
+Ujjain Mahakaleshwar,Ujjain,"religious, culture, history",4.9,festival_high
+Alleppey Backwaters,Alappuzha,"nature, relaxed, culture",4.8,weekend_high
+Betla National Park,Latehar,"wildlife, nature, adventure",4.5,low
+Chidiya Tapu,Andaman and Nicobar,"beach, sunset, wildlife",4.7,low
+Kadmat Island,Lakshadweep,"beach, adventure, nature",4.6,low
+Khajuraho Group of Monuments,Chhatarpur,"history, culture, religious",4.9,weekend_high
+Digha Beach,Purba Medinipur,"beach, sunset, food",4.3,weekend_high
+Tirupati Balaji,Tirupati,"religious, culture, history",4.9,festival_high
+Tso Moriri,Leh,"nature, sunset, relaxed",4.8,low
+Kanha National Park,Mandla,"wildlife, nature, adventure",4.9,weekend_high
+Kavaratti Island,Lakshadweep,"beach, culture, nature",4.7,low
+Golconda Fort,Hyderabad,"history, culture, sunset",4.7,weekend_high
+Basilica of Bom Jesus,Goa,"history, religious, culture",4.6,festival_high
+Kohima War Cemetery,Kohima,"history, culture, relaxed",4.7,weekend_high
+Champaner Pavagadh,Panchmahal,"history, religious, nature",4.6,weekend_high
+Bakkhali,South 24 Parganas,"beach, nature, relaxed",4.5,low
+Nakki Lake,Mount Abu,"nature, relaxed, sunset",4.4,weekend_high
+Minicoy Island,Lakshadweep,"beach, culture, history",4.7,low

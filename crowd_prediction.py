@@ -10,43 +10,14 @@ Functions:
 
 from datetime import datetime
 
-destinations = [
-    {
-        "name": "Goa Beach",
-        "city": "Goa",
-        "tags": ["beach", "nightlife", "sunset"],
-        "rating": 4.5,
-        "crowd_pattern": "weekend_high"
-    },
-    {
-        "name": "Anjuna Flea Market",
-        "city": "Goa",
-        "tags": ["shopping", "culture", "nightlife"],
-        "rating": 4.2,
-        "crowd_pattern": "weekend_high"
-    },
-    {
-        "name": "Palolem Beach",
-        "city": "Goa",
-        "tags": ["beach", "relaxed", "nature"],
-        "rating": 4.6,
-        "crowd_pattern": "low"
-    },
-    {
-        "name": "Dudhsagar Falls",
-        "city": "Goa",
-        "tags": ["nature", "adventure", "waterfall"],
-        "rating": 4.4,
-        "crowd_pattern": "festival_high"
-    },
-    {
-        "name": "Basilica of Bom Jesus",
-        "city": "Goa",
-        "tags": ["culture", "history", "religious"],
-        "rating": 4.3,
-        "crowd_pattern": "weekend_high"
-    }
-]
+import json
+import os
+from datetime import datetime
+
+_DATA_PATH = os.path.join(os.path.dirname(__file__), "Smart_Tourism_Dataset_300_Locations.json")
+
+with open(_DATA_PATH, "r", encoding="utf-8") as f:
+    destinations = json.load(f)
 
 festival_dates = [
     "2026-01-26",  # Republic Day

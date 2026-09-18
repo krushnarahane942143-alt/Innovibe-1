@@ -1,0 +1,2702 @@
+[
+  {
+    "name": "Kempty Falls",
+    "city": "Dehradun",
+    "tags": [
+      "waterfall, nature, relaxed"
+    ],
+    "rating": 4.3,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Rumtek Monastery",
+    "city": "Gangtok",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Rameswaram",
+    "city": "Ramanathapuram",
+    "tags": [
+      "religious, beach, history"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Tawang Monastery",
+    "city": "Tawang",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Shalimar Bagh",
+    "city": "Srinagar",
+    "tags": [
+      "nature, history, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Keibul Lamjao National Park",
+    "city": "Bishnupur",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Om Beach",
+    "city": "Gokarna",
+    "tags": [
+      "beach, sunset, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Vantawng Falls",
+    "city": "Serchhip",
+    "tags": [
+      "waterfall, nature, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Ayodhya Ram Mandir",
+    "city": "Ayodhya",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Silent Valley",
+    "city": "Palakkad",
+    "tags": [
+      "wildlife, nature, hiking"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Chandipur Beach",
+    "city": "Balasore",
+    "tags": [
+      "beach, nature, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Kalpeni Island",
+    "city": "Lakshadweep",
+    "tags": [
+      "beach, sunset, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Bangaram Island",
+    "city": "Lakshadweep",
+    "tags": [
+      "beach, party, relaxed"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Ghoghla Beach",
+    "city": "Daman and Diu",
+    "tags": [
+      "beach, adventure, sunset"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Rani ki Vav",
+    "city": "Patan",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Jog Falls",
+    "city": "Shimoga",
+    "tags": [
+      "waterfall, nature, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Tadoba Andhari",
+    "city": "Chandrapur",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Papikondalu",
+    "city": "East Godavari",
+    "tags": [
+      "nature, relaxed, adventure"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Sela Pass",
+    "city": "Tawang",
+    "tags": [
+      "nature, adventure, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Palolem Beach",
+    "city": "Goa",
+    "tags": [
+      "beach, sunset, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Gwalior Fort",
+    "city": "Gwalior",
+    "tags": [
+      "history, culture, sunset"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Lingaraj Temple",
+    "city": "Bhubaneswar",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Kufri",
+    "city": "Shimla",
+    "tags": [
+      "nature, adventure, relaxed"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kaziranga National Park",
+    "city": "Golaghat",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kovalam Beach",
+    "city": "Thiruvananthapuram",
+    "tags": [
+      "beach, sunset, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Manali Mall Road",
+    "city": "Kullu",
+    "tags": [
+      "shopping, culture, food"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Cellular Jail",
+    "city": "Andaman and Nicobar",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Majuli Island",
+    "city": "Majuli",
+    "tags": [
+      "culture, nature, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Sukhna Lake",
+    "city": "Chandigarh",
+    "tags": [
+      "nature, sunset, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Bastar Palace",
+    "city": "Jagdalpur",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.3,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Amarnath Cave",
+    "city": "Anantnag",
+    "tags": [
+      "religious, hiking, nature"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Triveni Ghat",
+    "city": "Dehradun",
+    "tags": [
+      "religious, culture, sunset"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Rock Garden",
+    "city": "Chandigarh",
+    "tags": [
+      "culture, nature, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Yercaud",
+    "city": "Salem",
+    "tags": [
+      "nature, relaxed, sunset"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Srisailam",
+    "city": "Nandyal",
+    "tags": [
+      "religious, nature, history"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Murdeshwar Temple",
+    "city": "Murdeshwar",
+    "tags": [
+      "religious, beach, sunset"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Munnar",
+    "city": "Idukki",
+    "tags": [
+      "nature, relaxed, sunset"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Dhuandhar Falls",
+    "city": "Jabalpur",
+    "tags": [
+      "waterfall, nature, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kapaleeshwarar Temple",
+    "city": "Chennai",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Phawngpui",
+    "city": "Lawngtlai",
+    "tags": [
+      "hiking, nature, adventure"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Bhimashankar",
+    "city": "Pune",
+    "tags": [
+      "religious, nature, hiking"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Rumi Darwaza",
+    "city": "Lucknow",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Chilika Lake",
+    "city": "Ganjam",
+    "tags": [
+      "nature, wildlife, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Dalhousie Khajjiar",
+    "city": "Chamba",
+    "tags": [
+      "nature, relaxed, sunset"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Elephanta Caves",
+    "city": "Mumbai",
+    "tags": [
+      "history, culture, religious"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Tarkarli Beach",
+    "city": "Sindhudurg",
+    "tags": [
+      "beach, adventure, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Laxmi Vilas Palace",
+    "city": "Vadodara",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Fontainhas",
+    "city": "Goa",
+    "tags": [
+      "culture, history, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Darjeeling Mall Road",
+    "city": "Darjeeling",
+    "tags": [
+      "shopping, relaxed, food"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kudle Beach",
+    "city": "Gokarna",
+    "tags": [
+      "beach, sunset, party"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Agartala Ujjayanta Palace",
+    "city": "Agartala",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Hemis National Park",
+    "city": "Leh",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Rishikonda Beach",
+    "city": "Visakhapatnam",
+    "tags": [
+      "beach, adventure, sunset"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Konark Sun Temple",
+    "city": "Konark",
+    "tags": [
+      "history, culture, religious"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Amber Fort",
+    "city": "Jaipur",
+    "tags": [
+      "history, culture, sunset"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Tiger Hill",
+    "city": "Darjeeling",
+    "tags": [
+      "sunset, nature, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Orchha Fort Complex",
+    "city": "Niwari",
+    "tags": [
+      "history, culture, nature"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Brahma Sarovar",
+    "city": "Kurukshetra",
+    "tags": [
+      "religious, history, sunset"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Bara Imambara",
+    "city": "Lucknow",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Gopalpur Beach",
+    "city": "Ganjam",
+    "tags": [
+      "beach, sunset, relaxed"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Lake Pichola",
+    "city": "Udaipur",
+    "tags": [
+      "sunset, relaxed, culture"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Mahabaleshwar",
+    "city": "Satara",
+    "tags": [
+      "nature, sunset, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Dakshineswar Kali Temple",
+    "city": "Kolkata",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Valmiki National Park",
+    "city": "West Champaran",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Pushkar Lake",
+    "city": "Pushkar",
+    "tags": [
+      "religious, culture, sunset"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "India Gate",
+    "city": "Delhi",
+    "tags": [
+      "history, sunset, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Thiksey Monastery",
+    "city": "Leh",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Araku Valley",
+    "city": "Visakhapatnam",
+    "tags": [
+      "nature, relaxed, culture"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Agatti Island",
+    "city": "Lakshadweep",
+    "tags": [
+      "beach, adventure, sunset"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Kargil War Memorial",
+    "city": "Kargil",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Chandni Chowk",
+    "city": "Delhi",
+    "tags": [
+      "shopping, food, culture"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Dilwara Temples",
+    "city": "Mount Abu",
+    "tags": [
+      "religious, history, culture"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Pangong Lake",
+    "city": "Leh",
+    "tags": [
+      "nature, sunset, adventure"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Marine Drive",
+    "city": "Mumbai",
+    "tags": [
+      "sunset, relaxed, nightlife"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Guruvayur Temple",
+    "city": "Thrissur",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Pelling",
+    "city": "Gyalsing",
+    "tags": [
+      "nature, sunset, waterfall"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Agra Fort",
+    "city": "Agra",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kanger Valley National Park",
+    "city": "Bastar",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Bekal Fort",
+    "city": "Kasaragod",
+    "tags": [
+      "history, beach, sunset"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Saputara",
+    "city": "Dang",
+    "tags": [
+      "nature, relaxed, sunset"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Hawa Mahal",
+    "city": "Jaipur",
+    "tags": [
+      "history, culture, shopping"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Trimbakeshwar",
+    "city": "Nashik",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Sonamarg",
+    "city": "Ganderbal",
+    "tags": [
+      "nature, hiking, adventure"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Umaid Bhawan Palace",
+    "city": "Jodhpur",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Shimla Mall Road",
+    "city": "Shimla",
+    "tags": [
+      "shopping, culture, food"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kanyakumari",
+    "city": "Kanyakumari",
+    "tags": [
+      "sunset, beach, religious"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Dudhwa National Park",
+    "city": "Lakhimpur Kheri",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Dhanushkodi",
+    "city": "Ramanathapuram",
+    "tags": [
+      "beach, history, nature"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Keoladeo National Park",
+    "city": "Bharatpur",
+    "tags": [
+      "wildlife, nature, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Red Fort",
+    "city": "Delhi",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Sivasagar Sivadol",
+    "city": "Sivasagar",
+    "tags": [
+      "history, religious, culture"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Lotus Temple",
+    "city": "Delhi",
+    "tags": [
+      "religious, culture, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kamakhya Temple",
+    "city": "Guwahati",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Dassam Falls",
+    "city": "Ranchi",
+    "tags": [
+      "waterfall, nature, relaxed"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kaas Plateau",
+    "city": "Satara",
+    "tags": [
+      "nature, relaxed, sunset"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Kodaikanal",
+    "city": "Dindigul",
+    "tags": [
+      "nature, relaxed, hiking"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Sundarbans National Park",
+    "city": "South 24 Parganas",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Double Decker Living Root Bridge",
+    "city": "Cherrapunji",
+    "tags": [
+      "hiking, nature, adventure"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Bikaner Junagarh Fort",
+    "city": "Bikaner",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Shantiniketan",
+    "city": "Birbhum",
+    "tags": [
+      "culture, history, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Champhai",
+    "city": "Champhai",
+    "tags": [
+      "nature, culture, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Gateway of India",
+    "city": "Mumbai",
+    "tags": [
+      "history, culture, sunset"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Sariska Tiger Reserve",
+    "city": "Alwar",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Belum Caves",
+    "city": "Kurnool",
+    "tags": [
+      "history, nature, adventure"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Ellora Caves",
+    "city": "Aurangabad",
+    "tags": [
+      "history, culture, religious"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Key Monastery",
+    "city": "Lahaul and Spiti",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Diu Fort",
+    "city": "Daman and Diu",
+    "tags": [
+      "history, beach, sunset"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Patnitop",
+    "city": "Udhampur",
+    "tags": [
+      "nature, relaxed, sunset"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Bandhavgarh National Park",
+    "city": "Umaria",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Paradise Beach Pondy",
+    "city": "Puducherry",
+    "tags": [
+      "beach, relaxed, nature"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Kasol",
+    "city": "Kullu",
+    "tags": [
+      "nature, party, hiking"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Nalsarovar Bird Sanctuary",
+    "city": "Ahmedabad",
+    "tags": [
+      "wildlife, nature, sunset"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Golden Temple",
+    "city": "Amritsar",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Sun Temple Modhera",
+    "city": "Mehsana",
+    "tags": [
+      "history, culture, religious"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Nathula Pass",
+    "city": "East Sikkim",
+    "tags": [
+      "adventure, nature, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Amboli",
+    "city": "Sindhudurg",
+    "tags": [
+      "nature, waterfall, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Jolly Buoy Island",
+    "city": "Andaman and Nicobar",
+    "tags": [
+      "beach, nature, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Devka Beach",
+    "city": "Daman and Diu",
+    "tags": [
+      "beach, nightlife, relaxed"
+    ],
+    "rating": 4.1,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Mahabalipuram",
+    "city": "Chengalpattu",
+    "tags": [
+      "history, beach, culture"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Nalanda Ruins",
+    "city": "Nalanda",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Dumas Beach",
+    "city": "Surat",
+    "tags": [
+      "beach, relaxed, food"
+    ],
+    "rating": 4.2,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Pahalgam",
+    "city": "Anantnag",
+    "tags": [
+      "nature, hiking, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Thol Bird Sanctuary",
+    "city": "Mehsana",
+    "tags": [
+      "wildlife, nature, relaxed"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Borra Caves",
+    "city": "Visakhapatnam",
+    "tags": [
+      "nature, history, adventure"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Suru Valley",
+    "city": "Kargil",
+    "tags": [
+      "nature, relaxed, hiking"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Unakoti",
+    "city": "Unakoti",
+    "tags": [
+      "history, religious, nature"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Puri Jagannath Temple",
+    "city": "Puri",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Dharamshala McLeod Ganj",
+    "city": "Kangra",
+    "tags": [
+      "culture, religious, hiking"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Magnetic Hill",
+    "city": "Leh",
+    "tags": [
+      "nature, adventure, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Mussoorie Mall Road",
+    "city": "Dehradun",
+    "tags": [
+      "shopping, nature, food"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Jallianwala Bagh",
+    "city": "Amritsar",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Mysore Palace",
+    "city": "Mysore",
+    "tags": [
+      "history, culture, shopping"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Manas National Park",
+    "city": "Baksa",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Ziro Valley",
+    "city": "Lower Subansiri",
+    "tags": [
+      "culture, nature, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Gokarna Main Beach",
+    "city": "Gokarna",
+    "tags": [
+      "beach, religious, sunset"
+    ],
+    "rating": 4.2,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Murud Janjira Fort",
+    "city": "Raigad",
+    "tags": [
+      "history, nature, adventure"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Umananda Island",
+    "city": "Guwahati",
+    "tags": [
+      "religious, nature, sunset"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kalsubai Peak",
+    "city": "Ahmednagar",
+    "tags": [
+      "hiking, adventure, nature"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Sanjay Gandhi National Park",
+    "city": "Mumbai",
+    "tags": [
+      "wildlife, nature, hiking"
+    ],
+    "rating": 4.2,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kankaria Lake",
+    "city": "Ahmedabad",
+    "tags": [
+      "relaxed, food, party"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Zanskar Valley",
+    "city": "Kargil",
+    "tags": [
+      "nature, adventure, hiking"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Meenakshi Temple",
+    "city": "Madurai",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Fort St. George",
+    "city": "Chennai",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.3,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Patna Sahib",
+    "city": "Patna",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Vrindavan",
+    "city": "Mathura",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Fort Aguada",
+    "city": "Goa",
+    "tags": [
+      "history, sunset, nature"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Nagoa Beach",
+    "city": "Daman and Diu",
+    "tags": [
+      "beach, party, relaxed"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Ramoji Film City",
+    "city": "Hyderabad",
+    "tags": [
+      "culture, adventure, party"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Akshardham Gandhinagar",
+    "city": "Gandhinagar",
+    "tags": [
+      "religious, culture, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Bhimbetka Rock Shelters",
+    "city": "Raisen",
+    "tags": [
+      "history, culture, nature"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Loktak Lake",
+    "city": "Bishnupur",
+    "tags": [
+      "nature, wildlife, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Humayuns Tomb",
+    "city": "Delhi",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Udayagiri Caves",
+    "city": "Bhubaneswar",
+    "tags": [
+      "history, culture, nature"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Elephant Beach",
+    "city": "Andaman and Nicobar",
+    "tags": [
+      "beach, adventure, waterfall"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kumarakom",
+    "city": "Kottayam",
+    "tags": [
+      "nature, relaxed, wildlife"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Wagah Border",
+    "city": "Amritsar",
+    "tags": [
+      "culture, history, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Garo Hills",
+    "city": "West Garo Hills",
+    "tags": [
+      "nature, hiking, wildlife"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Marina Beach",
+    "city": "Chennai",
+    "tags": [
+      "beach, food, sunset"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Sinhagad Fort",
+    "city": "Pune",
+    "tags": [
+      "history, hiking, nature"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Mawlynnong",
+    "city": "East Khasi Hills",
+    "tags": [
+      "nature, culture, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Nagarhole National Park",
+    "city": "Kodagu",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Dawki River",
+    "city": "West Jaintia Hills",
+    "tags": [
+      "nature, adventure, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Jantar Mantar Jaipur",
+    "city": "Jaipur",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Baga Beach",
+    "city": "Goa",
+    "tags": [
+      "beach, nightlife, party"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Chandratal Lake",
+    "city": "Lahaul and Spiti",
+    "tags": [
+      "nature, adventure, sunset"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Teerathgarh Falls",
+    "city": "Bastar",
+    "tags": [
+      "waterfall, nature, hiking"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Baratang Island",
+    "city": "Andaman and Nicobar",
+    "tags": [
+      "nature, adventure, wildlife"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Mudumalai National Park",
+    "city": "Nilgiris",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Sabarmati Ashram",
+    "city": "Ahmedabad",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Yarada Beach",
+    "city": "Visakhapatnam",
+    "tags": [
+      "beach, nature, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Brahma Temple",
+    "city": "Pushkar",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Somnath Temple",
+    "city": "Gir Somnath",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Mehrangarh Fort",
+    "city": "Jodhpur",
+    "tags": [
+      "history, culture, sunset"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Pratapgad Fort",
+    "city": "Satara",
+    "tags": [
+      "history, nature, hiking"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Akshardham Delhi",
+    "city": "Delhi",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Dudhsagar Waterfalls",
+    "city": "Goa",
+    "tags": [
+      "waterfall, nature, adventure"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Dzukou Valley",
+    "city": "Kohima",
+    "tags": [
+      "hiking, nature, relaxed"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Coonoor",
+    "city": "Nilgiris",
+    "tags": [
+      "nature, relaxed, hiking"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Auli",
+    "city": "Chamoli",
+    "tags": [
+      "adventure, nature, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Triund Trek",
+    "city": "Kangra",
+    "tags": [
+      "hiking, nature, sunset"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Omkareshwar",
+    "city": "Khandwa",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Qutub Minar",
+    "city": "Delhi",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Jim Corbett National Park",
+    "city": "Nainital",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Gir National Park",
+    "city": "Junagadh",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Neermahal",
+    "city": "Sepahijala",
+    "tags": [
+      "history, culture, nature"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Kalimpong",
+    "city": "Kalimpong",
+    "tags": [
+      "nature, culture, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Pinjore Gardens",
+    "city": "Panchkula",
+    "tags": [
+      "nature, history, relaxed"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Spiti Valley",
+    "city": "Lahaul and Spiti",
+    "tags": [
+      "nature, adventure, culture"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Taj Mahal",
+    "city": "Agra",
+    "tags": [
+      "history, culture, sunset"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Agumbe",
+    "city": "Shimoga",
+    "tags": [
+      "nature, sunset, wildlife"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Raigad Fort",
+    "city": "Raigad",
+    "tags": [
+      "history, hiking, nature"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Jampore Beach",
+    "city": "Daman and Diu",
+    "tags": [
+      "beach, relaxed, food"
+    ],
+    "rating": 4.3,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kinnaur Kailash",
+    "city": "Kinnaur",
+    "tags": [
+      "nature, religious, hiking"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Elephant Falls",
+    "city": "Shillong",
+    "tags": [
+      "waterfall, nature, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Nohkalikai Falls",
+    "city": "Cherrapunji",
+    "tags": [
+      "waterfall, nature, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Jaisalmer Fort",
+    "city": "Jaisalmer",
+    "tags": [
+      "history, culture, sunset"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Badrinath Temple",
+    "city": "Chamoli",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Golden Beach",
+    "city": "Puri",
+    "tags": [
+      "beach, sunset, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Dwarkadhish Temple",
+    "city": "Devbhumi Dwarka",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "City Palace Jaipur",
+    "city": "Jaipur",
+    "tags": [
+      "history, culture, shopping"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Mirik",
+    "city": "Darjeeling",
+    "tags": [
+      "nature, relaxed, sunset"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Yumthang Valley",
+    "city": "Mangan",
+    "tags": [
+      "nature, relaxed, sunset"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Dongargarh",
+    "city": "Rajnandgaon",
+    "tags": [
+      "religious, nature, hiking"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Sam Sand Dunes",
+    "city": "Jaisalmer",
+    "tags": [
+      "adventure, nature, sunset"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Dirang",
+    "city": "West Kameng",
+    "tags": [
+      "nature, culture, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Khonoma Village",
+    "city": "Kohima",
+    "tags": [
+      "culture, nature, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Mainpat",
+    "city": "Surguja",
+    "tags": [
+      "nature, culture, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Har Ki Pauri",
+    "city": "Haridwar",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Nainital Lake",
+    "city": "Nainital",
+    "tags": [
+      "nature, relaxed, sunset"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Pondicherry French Quarter",
+    "city": "Puducherry",
+    "tags": [
+      "culture, relaxed, food"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Paradise Beach",
+    "city": "Gokarna",
+    "tags": [
+      "beach, hiking, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Deoghar",
+    "city": "Deoghar",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Sarnath",
+    "city": "Varanasi",
+    "tags": [
+      "history, religious, culture"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Radhanagar Beach",
+    "city": "Andaman and Nicobar",
+    "tags": [
+      "beach, sunset, nature"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Cherrapunji",
+    "city": "East Khasi Hills",
+    "tags": [
+      "waterfall, nature, hiking"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Mathura Krishna Janmabhoomi",
+    "city": "Mathura",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Statue of Unity",
+    "city": "Narmada",
+    "tags": [
+      "culture, history, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Rann of Kutch",
+    "city": "Kutch",
+    "tags": [
+      "nature, culture, sunset"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Dal Lake",
+    "city": "Srinagar",
+    "tags": [
+      "nature, sunset, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Tsomgo Lake",
+    "city": "East Sikkim",
+    "tags": [
+      "nature, adventure, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Athirappilly Waterfalls",
+    "city": "Thrissur",
+    "tags": [
+      "waterfall, nature, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Wandoor Beach",
+    "city": "Andaman and Nicobar",
+    "tags": [
+      "beach, relaxed, nature"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Auroville",
+    "city": "Puducherry",
+    "tags": [
+      "culture, relaxed, nature"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Howrah Bridge",
+    "city": "Kolkata",
+    "tags": [
+      "culture, history, sunset"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Charminar",
+    "city": "Hyderabad",
+    "tags": [
+      "history, culture, shopping"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "City Palace Udaipur",
+    "city": "Udaipur",
+    "tags": [
+      "history, culture, sunset"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Ajanta Caves",
+    "city": "Aurangabad",
+    "tags": [
+      "history, culture, religious"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Ranthambore National Park",
+    "city": "Sawai Madhopur",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Padmanabhaswamy Temple",
+    "city": "Thiruvananthapuram",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Khandala",
+    "city": "Pune",
+    "tags": [
+      "nature, hiking, relaxed"
+    ],
+    "rating": 4.2,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kakolat Waterfall",
+    "city": "Nawada",
+    "tags": [
+      "waterfall, nature, relaxed"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Jonha Falls",
+    "city": "Ranchi",
+    "tags": [
+      "waterfall, nature, relaxed"
+    ],
+    "rating": 4.3,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Chittorgarh Fort",
+    "city": "Chittorgarh",
+    "tags": [
+      "history, culture, nature"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Solang Valley",
+    "city": "Kullu",
+    "tags": [
+      "adventure, nature, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Pench National Park",
+    "city": "Seoni",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Marari Beach",
+    "city": "Alappuzha",
+    "tags": [
+      "beach, relaxed, nature"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Kheerganga",
+    "city": "Kullu",
+    "tags": [
+      "hiking, nature, adventure"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Nanda Devi National Park",
+    "city": "Chamoli",
+    "tags": [
+      "wildlife, nature, hiking"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Varanasi Ghats",
+    "city": "Varanasi",
+    "tags": [
+      "religious, culture, sunset"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Bhujia Fort",
+    "city": "Bhuj",
+    "tags": [
+      "history, sunset, hiking"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Promenade Beach",
+    "city": "Puducherry",
+    "tags": [
+      "beach, sunset, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Simlipal National Park",
+    "city": "Mayurbhanj",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Hundru Falls",
+    "city": "Ranchi",
+    "tags": [
+      "waterfall, nature, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Chikmagalur",
+    "city": "Chikmagalur",
+    "tags": [
+      "nature, relaxed, hiking"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Brihadeeswarar Temple",
+    "city": "Thanjavur",
+    "tags": [
+      "history, religious, culture"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Old Manali",
+    "city": "Kullu",
+    "tags": [
+      "culture, party, food"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Jakhoo Temple",
+    "city": "Shimla",
+    "tags": [
+      "religious, nature, hiking"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Hampi",
+    "city": "Vijayanagara",
+    "tags": [
+      "history, culture, sunset"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Fatehpur Sikri",
+    "city": "Agra",
+    "tags": [
+      "history, culture, religious"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Reiek",
+    "city": "Mamit",
+    "tags": [
+      "hiking, nature, sunset"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Kashid Beach",
+    "city": "Raigad",
+    "tags": [
+      "beach, sunset, relaxed"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Triveni Sangam",
+    "city": "Prayagraj",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Khardung La",
+    "city": "Leh",
+    "tags": [
+      "adventure, nature, history"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Uparkot Fort",
+    "city": "Junagadh",
+    "tags": [
+      "history, culture, nature"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Pachmarhi",
+    "city": "Narmadapuram",
+    "tags": [
+      "nature, waterfall, sunset"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Bomdila",
+    "city": "West Kameng",
+    "tags": [
+      "nature, culture, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Batasia Loop",
+    "city": "Darjeeling",
+    "tags": [
+      "history, nature, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Marble Rocks",
+    "city": "Jabalpur",
+    "tags": [
+      "nature, adventure, sunset"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Sirpur",
+    "city": "Mahasamund",
+    "tags": [
+      "history, religious, culture"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Hussain Sagar",
+    "city": "Hyderabad",
+    "tags": [
+      "sunset, relaxed, food"
+    ],
+    "rating": 4.3,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Chitrakoot Falls",
+    "city": "Bastar",
+    "tags": [
+      "waterfall, nature, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Mandvi Beach",
+    "city": "Kutch",
+    "tags": [
+      "beach, sunset, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Nubra Valley",
+    "city": "Leh",
+    "tags": [
+      "nature, adventure, culture"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Gulmarg Gondola",
+    "city": "Baramulla",
+    "tags": [
+      "adventure, nature, relaxed"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Wayanad",
+    "city": "Wayanad",
+    "tags": [
+      "nature, hiking, waterfall"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Neil Island",
+    "city": "Andaman and Nicobar",
+    "tags": [
+      "beach, sunset, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Kedarnath Temple",
+    "city": "Rudraprayag",
+    "tags": [
+      "religious, hiking, history"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Gurudongmar Lake",
+    "city": "Mangan",
+    "tags": [
+      "nature, adventure, relaxed"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Rajgir",
+    "city": "Nalanda",
+    "tags": [
+      "history, religious, nature"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Shirdi",
+    "city": "Ahmednagar",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Half Moon Beach",
+    "city": "Gokarna",
+    "tags": [
+      "beach, relaxed, nature"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Bhitarkanika National Park",
+    "city": "Kendrapara",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Mandu",
+    "city": "Dhar",
+    "tags": [
+      "history, culture, nature"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Ravangla",
+    "city": "Namchi",
+    "tags": [
+      "nature, culture, relaxed"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Coorg",
+    "city": "Madikeri",
+    "tags": [
+      "nature, relaxed, food"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Ghatshila",
+    "city": "East Singhbhum",
+    "tags": [
+      "nature, relaxed, sunset"
+    ],
+    "rating": 4.2,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Ooty",
+    "city": "Nilgiris",
+    "tags": [
+      "nature, relaxed, shopping"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Rishikesh Laxman Jhula",
+    "city": "Dehradun",
+    "tags": [
+      "religious, culture, adventure"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Polo Forest",
+    "city": "Sabarkantha",
+    "tags": [
+      "nature, history, hiking"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Harishchandragad",
+    "city": "Ahmednagar",
+    "tags": [
+      "hiking, history, nature"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Namdapha National Park",
+    "city": "Changlang",
+    "tags": [
+      "wildlife, nature, hiking"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Sanchi Stupa",
+    "city": "Raisen",
+    "tags": [
+      "history, religious, culture"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Ujjain Mahakaleshwar",
+    "city": "Ujjain",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Alleppey Backwaters",
+    "city": "Alappuzha",
+    "tags": [
+      "nature, relaxed, culture"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Betla National Park",
+    "city": "Latehar",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Chidiya Tapu",
+    "city": "Andaman and Nicobar",
+    "tags": [
+      "beach, sunset, wildlife"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Kadmat Island",
+    "city": "Lakshadweep",
+    "tags": [
+      "beach, adventure, nature"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Khajuraho Group of Monuments",
+    "city": "Chhatarpur",
+    "tags": [
+      "history, culture, religious"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Digha Beach",
+    "city": "Purba Medinipur",
+    "tags": [
+      "beach, sunset, food"
+    ],
+    "rating": 4.3,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Tirupati Balaji",
+    "city": "Tirupati",
+    "tags": [
+      "religious, culture, history"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Tso Moriri",
+    "city": "Leh",
+    "tags": [
+      "nature, sunset, relaxed"
+    ],
+    "rating": 4.8,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Kanha National Park",
+    "city": "Mandla",
+    "tags": [
+      "wildlife, nature, adventure"
+    ],
+    "rating": 4.9,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Kavaratti Island",
+    "city": "Lakshadweep",
+    "tags": [
+      "beach, culture, nature"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Golconda Fort",
+    "city": "Hyderabad",
+    "tags": [
+      "history, culture, sunset"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Basilica of Bom Jesus",
+    "city": "Goa",
+    "tags": [
+      "history, religious, culture"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "festival_high"
+  },
+  {
+    "name": "Kohima War Cemetery",
+    "city": "Kohima",
+    "tags": [
+      "history, culture, relaxed"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Champaner Pavagadh",
+    "city": "Panchmahal",
+    "tags": [
+      "history, religious, nature"
+    ],
+    "rating": 4.6,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Bakkhali",
+    "city": "South 24 Parganas",
+    "tags": [
+      "beach, nature, relaxed"
+    ],
+    "rating": 4.5,
+    "crowd_pattern": "low"
+  },
+  {
+    "name": "Nakki Lake",
+    "city": "Mount Abu",
+    "tags": [
+      "nature, relaxed, sunset"
+    ],
+    "rating": 4.4,
+    "crowd_pattern": "weekend_high"
+  },
+  {
+    "name": "Minicoy Island",
+    "city": "Lakshadweep",
+    "tags": [
+      "beach, culture, history"
+    ],
+    "rating": 4.7,
+    "crowd_pattern": "low"
+  }
+]

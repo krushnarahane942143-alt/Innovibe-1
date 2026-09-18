@@ -219,7 +219,7 @@ Return EXACTLY this JSON shape:
 if __name__ == "__main__":
     sample_preferences = {
         "days": 3,
-        "budget": "medium",
+        "budget": "low",
         "interests": ["beach", "culture", "nature"],
         "group_type": "couple",
     }
