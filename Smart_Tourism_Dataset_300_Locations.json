@@ -6,7 +6,8 @@
       "waterfall, nature, relaxed"
     ],
     "rating": 4.3,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kempty-falls"
   },
   {
     "name": "Rumtek Monastery",
@@ -15,7 +16,8 @@
       "religious, culture, history"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "rumtek-monastery"
   },
   {
     "name": "Rameswaram",
@@ -24,7 +26,8 @@
       "religious, beach, history"
     ],
     "rating": 4.7,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "rameswaram"
   },
   {
     "name": "Tawang Monastery",
@@ -33,7 +36,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "tawang-monastery"
   },
   {
     "name": "Shalimar Bagh",
@@ -42,7 +46,8 @@
       "nature, history, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "shalimar-bagh"
   },
   {
     "name": "Keibul Lamjao National Park",
@@ -51,7 +56,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "keibul-lamjao-national-park"
   },
   {
     "name": "Om Beach",
@@ -60,7 +66,8 @@
       "beach, sunset, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "om-beach"
   },
   {
     "name": "Vantawng Falls",
@@ -69,7 +76,8 @@
       "waterfall, nature, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "vantawng-falls"
   },
   {
     "name": "Ayodhya Ram Mandir",
@@ -78,7 +86,8 @@
       "religious, culture, history"
     ],
     "rating": 4.9,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "ayodhya-ram-mandir"
   },
   {
     "name": "Silent Valley",
@@ -87,7 +96,8 @@
       "wildlife, nature, hiking"
     ],
     "rating": 4.8,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "silent-valley"
   },
   {
     "name": "Chandipur Beach",
@@ -96,7 +106,8 @@
       "beach, nature, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "chandipur-beach"
   },
   {
     "name": "Kalpeni Island",
@@ -105,7 +116,8 @@
       "beach, sunset, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "kalpeni-island"
   },
   {
     "name": "Bangaram Island",
@@ -114,7 +126,8 @@
       "beach, party, relaxed"
     ],
     "rating": 4.9,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "bangaram-island"
   },
   {
     "name": "Ghoghla Beach",
@@ -123,7 +136,8 @@
       "beach, adventure, sunset"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "ghoghla-beach"
   },
   {
     "name": "Rani ki Vav",
@@ -132,7 +146,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "rani-ki-vav"
   },
   {
     "name": "Jog Falls",
@@ -141,7 +156,8 @@
       "waterfall, nature, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "jog-falls"
   },
   {
     "name": "Tadoba Andhari",
@@ -150,7 +166,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "tadoba-andhari"
   },
   {
     "name": "Papikondalu",
@@ -159,7 +176,8 @@
       "nature, relaxed, adventure"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "papikondalu"
   },
   {
     "name": "Sela Pass",
@@ -168,7 +186,8 @@
       "nature, adventure, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "sela-pass"
   },
   {
     "name": "Palolem Beach",
@@ -177,7 +196,8 @@
       "beach, sunset, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "palolem-beach"
   },
   {
     "name": "Gwalior Fort",
@@ -186,7 +206,8 @@
       "history, culture, sunset"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "gwalior-fort"
   },
   {
     "name": "Lingaraj Temple",
@@ -195,7 +216,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "lingaraj-temple"
   },
   {
     "name": "Kufri",
@@ -204,7 +226,8 @@
       "nature, adventure, relaxed"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kufri"
   },
   {
     "name": "Kaziranga National Park",
@@ -213,7 +236,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kaziranga-national-park"
   },
   {
     "name": "Kovalam Beach",
@@ -222,7 +246,8 @@
       "beach, sunset, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kovalam-beach"
   },
   {
     "name": "Manali Mall Road",
@@ -231,7 +256,8 @@
       "shopping, culture, food"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "manali-mall-road"
   },
   {
     "name": "Cellular Jail",
@@ -240,7 +266,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "cellular-jail"
   },
   {
     "name": "Majuli Island",
@@ -249,7 +276,8 @@
       "culture, nature, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "majuli-island"
   },
   {
     "name": "Sukhna Lake",
@@ -258,7 +286,8 @@
       "nature, sunset, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "sukhna-lake"
   },
   {
     "name": "Bastar Palace",
@@ -267,7 +296,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.3,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "bastar-palace"
   },
   {
     "name": "Amarnath Cave",
@@ -276,7 +306,8 @@
       "religious, hiking, nature"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "amarnath-cave"
   },
   {
     "name": "Triveni Ghat",
@@ -285,7 +316,8 @@
       "religious, culture, sunset"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "triveni-ghat"
   },
   {
     "name": "Rock Garden",
@@ -294,7 +326,8 @@
       "culture, nature, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "rock-garden"
   },
   {
     "name": "Yercaud",
@@ -303,7 +336,8 @@
       "nature, relaxed, sunset"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "yercaud"
   },
   {
     "name": "Srisailam",
@@ -312,7 +346,8 @@
       "religious, nature, history"
     ],
     "rating": 4.7,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "srisailam"
   },
   {
     "name": "Murdeshwar Temple",
@@ -321,7 +356,8 @@
       "religious, beach, sunset"
     ],
     "rating": 4.7,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "murdeshwar-temple"
   },
   {
     "name": "Munnar",
@@ -330,7 +366,8 @@
       "nature, relaxed, sunset"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "munnar"
   },
   {
     "name": "Dhuandhar Falls",
@@ -339,7 +376,8 @@
       "waterfall, nature, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "dhuandhar-falls"
   },
   {
     "name": "Kapaleeshwarar Temple",
@@ -348,7 +386,8 @@
       "religious, culture, history"
     ],
     "rating": 4.7,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "kapaleeshwarar-temple"
   },
   {
     "name": "Phawngpui",
@@ -357,7 +396,8 @@
       "hiking, nature, adventure"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "phawngpui"
   },
   {
     "name": "Bhimashankar",
@@ -366,7 +406,8 @@
       "religious, nature, hiking"
     ],
     "rating": 4.6,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "bhimashankar"
   },
   {
     "name": "Rumi Darwaza",
@@ -375,7 +416,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "rumi-darwaza"
   },
   {
     "name": "Chilika Lake",
@@ -384,7 +426,8 @@
       "nature, wildlife, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "chilika-lake"
   },
   {
     "name": "Dalhousie Khajjiar",
@@ -393,7 +436,8 @@
       "nature, relaxed, sunset"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "dalhousie-khajjiar"
   },
   {
     "name": "Elephanta Caves",
@@ -402,7 +446,8 @@
       "history, culture, religious"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "elephanta-caves"
   },
   {
     "name": "Tarkarli Beach",
@@ -411,7 +456,8 @@
       "beach, adventure, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "tarkarli-beach"
   },
   {
     "name": "Laxmi Vilas Palace",
@@ -420,7 +466,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "laxmi-vilas-palace"
   },
   {
     "name": "Fontainhas",
@@ -429,7 +476,8 @@
       "culture, history, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "fontainhas"
   },
   {
     "name": "Darjeeling Mall Road",
@@ -438,7 +486,8 @@
       "shopping, relaxed, food"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "darjeeling-mall-road"
   },
   {
     "name": "Kudle Beach",
@@ -447,7 +496,8 @@
       "beach, sunset, party"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kudle-beach"
   },
   {
     "name": "Agartala Ujjayanta Palace",
@@ -456,7 +506,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "agartala-ujjayanta-palace"
   },
   {
     "name": "Hemis National Park",
@@ -465,7 +516,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "hemis-national-park"
   },
   {
     "name": "Rishikonda Beach",
@@ -474,7 +526,8 @@
       "beach, adventure, sunset"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "rishikonda-beach"
   },
   {
     "name": "Konark Sun Temple",
@@ -483,7 +536,8 @@
       "history, culture, religious"
     ],
     "rating": 4.9,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "konark-sun-temple"
   },
   {
     "name": "Amber Fort",
@@ -492,7 +546,8 @@
       "history, culture, sunset"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "amber-fort"
   },
   {
     "name": "Tiger Hill",
@@ -501,7 +556,8 @@
       "sunset, nature, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "tiger-hill"
   },
   {
     "name": "Orchha Fort Complex",
@@ -510,7 +566,8 @@
       "history, culture, nature"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "orchha-fort-complex"
   },
   {
     "name": "Brahma Sarovar",
@@ -519,7 +576,8 @@
       "religious, history, sunset"
     ],
     "rating": 4.5,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "brahma-sarovar"
   },
   {
     "name": "Bara Imambara",
@@ -528,7 +586,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "bara-imambara"
   },
   {
     "name": "Gopalpur Beach",
@@ -537,7 +596,8 @@
       "beach, sunset, relaxed"
     ],
     "rating": 4.4,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "gopalpur-beach"
   },
   {
     "name": "Lake Pichola",
@@ -546,7 +606,8 @@
       "sunset, relaxed, culture"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "lake-pichola"
   },
   {
     "name": "Mahabaleshwar",
@@ -555,7 +616,8 @@
       "nature, sunset, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "mahabaleshwar"
   },
   {
     "name": "Dakshineswar Kali Temple",
@@ -564,7 +626,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "dakshineswar-kali-temple"
   },
   {
     "name": "Valmiki National Park",
@@ -573,7 +636,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "valmiki-national-park"
   },
   {
     "name": "Pushkar Lake",
@@ -582,7 +646,8 @@
       "religious, culture, sunset"
     ],
     "rating": 4.6,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "pushkar-lake"
   },
   {
     "name": "India Gate",
@@ -591,7 +656,8 @@
       "history, sunset, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "india-gate"
   },
   {
     "name": "Thiksey Monastery",
@@ -600,7 +666,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "thiksey-monastery"
   },
   {
     "name": "Araku Valley",
@@ -609,7 +676,8 @@
       "nature, relaxed, culture"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "araku-valley"
   },
   {
     "name": "Agatti Island",
@@ -618,7 +686,8 @@
       "beach, adventure, sunset"
     ],
     "rating": 4.8,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "agatti-island"
   },
   {
     "name": "Kargil War Memorial",
@@ -627,7 +696,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kargil-war-memorial"
   },
   {
     "name": "Chandni Chowk",
@@ -636,7 +706,8 @@
       "shopping, food, culture"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "chandni-chowk"
   },
   {
     "name": "Dilwara Temples",
@@ -645,7 +716,8 @@
       "religious, history, culture"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "dilwara-temples"
   },
   {
     "name": "Pangong Lake",
@@ -654,7 +726,8 @@
       "nature, sunset, adventure"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "pangong-lake"
   },
   {
     "name": "Marine Drive",
@@ -663,7 +736,8 @@
       "sunset, relaxed, nightlife"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "marine-drive"
   },
   {
     "name": "Guruvayur Temple",
@@ -672,7 +746,8 @@
       "religious, culture, history"
     ],
     "rating": 4.7,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "guruvayur-temple"
   },
   {
     "name": "Pelling",
@@ -681,7 +756,8 @@
       "nature, sunset, waterfall"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "pelling"
   },
   {
     "name": "Agra Fort",
@@ -690,7 +766,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "agra-fort"
   },
   {
     "name": "Kanger Valley National Park",
@@ -699,7 +776,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "kanger-valley-national-park"
   },
   {
     "name": "Bekal Fort",
@@ -708,7 +786,8 @@
       "history, beach, sunset"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "bekal-fort"
   },
   {
     "name": "Saputara",
@@ -717,7 +796,8 @@
       "nature, relaxed, sunset"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "saputara"
   },
   {
     "name": "Hawa Mahal",
@@ -726,7 +806,8 @@
       "history, culture, shopping"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "hawa-mahal"
   },
   {
     "name": "Trimbakeshwar",
@@ -735,7 +816,8 @@
       "religious, culture, history"
     ],
     "rating": 4.6,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "trimbakeshwar"
   },
   {
     "name": "Sonamarg",
@@ -744,7 +826,8 @@
       "nature, hiking, adventure"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "sonamarg"
   },
   {
     "name": "Umaid Bhawan Palace",
@@ -753,7 +836,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "umaid-bhawan-palace"
   },
   {
     "name": "Shimla Mall Road",
@@ -762,7 +846,8 @@
       "shopping, culture, food"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "shimla-mall-road"
   },
   {
     "name": "Kanyakumari",
@@ -771,7 +856,8 @@
       "sunset, beach, religious"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kanyakumari"
   },
   {
     "name": "Dudhwa National Park",
@@ -780,7 +866,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "dudhwa-national-park"
   },
   {
     "name": "Dhanushkodi",
@@ -789,7 +876,8 @@
       "beach, history, nature"
     ],
     "rating": 4.8,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "dhanushkodi"
   },
   {
     "name": "Keoladeo National Park",
@@ -798,7 +886,8 @@
       "wildlife, nature, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "keoladeo-national-park"
   },
   {
     "name": "Red Fort",
@@ -807,7 +896,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "red-fort"
   },
   {
     "name": "Sivasagar Sivadol",
@@ -816,7 +906,8 @@
       "history, religious, culture"
     ],
     "rating": 4.5,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "sivasagar-sivadol"
   },
   {
     "name": "Lotus Temple",
@@ -825,7 +916,8 @@
       "religious, culture, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "lotus-temple"
   },
   {
     "name": "Kamakhya Temple",
@@ -834,7 +926,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "kamakhya-temple"
   },
   {
     "name": "Dassam Falls",
@@ -843,7 +936,8 @@
       "waterfall, nature, relaxed"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "dassam-falls"
   },
   {
     "name": "Kaas Plateau",
@@ -852,7 +946,8 @@
       "nature, relaxed, sunset"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "kaas-plateau"
   },
   {
     "name": "Kodaikanal",
@@ -861,7 +956,8 @@
       "nature, relaxed, hiking"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kodaikanal"
   },
   {
     "name": "Sundarbans National Park",
@@ -870,7 +966,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "sundarbans-national-park"
   },
   {
     "name": "Double Decker Living Root Bridge",
@@ -879,7 +976,8 @@
       "hiking, nature, adventure"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "double-decker-living-root-bridge"
   },
   {
     "name": "Bikaner Junagarh Fort",
@@ -888,7 +986,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "bikaner-junagarh-fort"
   },
   {
     "name": "Shantiniketan",
@@ -897,7 +996,8 @@
       "culture, history, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "shantiniketan"
   },
   {
     "name": "Champhai",
@@ -906,7 +1006,8 @@
       "nature, culture, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "champhai"
   },
   {
     "name": "Gateway of India",
@@ -915,7 +1016,8 @@
       "history, culture, sunset"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "gateway-of-india"
   },
   {
     "name": "Sariska Tiger Reserve",
@@ -924,7 +1026,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "sariska-tiger-reserve"
   },
   {
     "name": "Belum Caves",
@@ -933,7 +1036,8 @@
       "history, nature, adventure"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "belum-caves"
   },
   {
     "name": "Ellora Caves",
@@ -942,7 +1046,8 @@
       "history, culture, religious"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "ellora-caves"
   },
   {
     "name": "Key Monastery",
@@ -951,7 +1056,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "key-monastery"
   },
   {
     "name": "Diu Fort",
@@ -960,7 +1066,8 @@
       "history, beach, sunset"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "diu-fort"
   },
   {
     "name": "Patnitop",
@@ -969,7 +1076,8 @@
       "nature, relaxed, sunset"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "patnitop"
   },
   {
     "name": "Bandhavgarh National Park",
@@ -978,7 +1086,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "bandhavgarh-national-park"
   },
   {
     "name": "Paradise Beach Pondy",
@@ -987,7 +1096,8 @@
       "beach, relaxed, nature"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "paradise-beach-pondy"
   },
   {
     "name": "Kasol",
@@ -996,7 +1106,8 @@
       "nature, party, hiking"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kasol"
   },
   {
     "name": "Nalsarovar Bird Sanctuary",
@@ -1005,7 +1116,8 @@
       "wildlife, nature, sunset"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "nalsarovar-bird-sanctuary"
   },
   {
     "name": "Golden Temple",
@@ -1014,7 +1126,8 @@
       "religious, culture, history"
     ],
     "rating": 4.9,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "golden-temple"
   },
   {
     "name": "Sun Temple Modhera",
@@ -1023,7 +1136,8 @@
       "history, culture, religious"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "sun-temple-modhera"
   },
   {
     "name": "Nathula Pass",
@@ -1032,7 +1146,8 @@
       "adventure, nature, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "nathula-pass"
   },
   {
     "name": "Amboli",
@@ -1041,7 +1156,8 @@
       "nature, waterfall, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "amboli"
   },
   {
     "name": "Jolly Buoy Island",
@@ -1050,7 +1166,8 @@
       "beach, nature, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "jolly-buoy-island"
   },
   {
     "name": "Devka Beach",
@@ -1059,7 +1176,8 @@
       "beach, nightlife, relaxed"
     ],
     "rating": 4.1,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "devka-beach"
   },
   {
     "name": "Mahabalipuram",
@@ -1068,7 +1186,8 @@
       "history, beach, culture"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "mahabalipuram"
   },
   {
     "name": "Nalanda Ruins",
@@ -1077,7 +1196,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "nalanda-ruins"
   },
   {
     "name": "Dumas Beach",
@@ -1086,7 +1206,8 @@
       "beach, relaxed, food"
     ],
     "rating": 4.2,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "dumas-beach"
   },
   {
     "name": "Pahalgam",
@@ -1095,7 +1216,8 @@
       "nature, hiking, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "pahalgam"
   },
   {
     "name": "Thol Bird Sanctuary",
@@ -1104,7 +1226,8 @@
       "wildlife, nature, relaxed"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "thol-bird-sanctuary"
   },
   {
     "name": "Borra Caves",
@@ -1113,7 +1236,8 @@
       "nature, history, adventure"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "borra-caves"
   },
   {
     "name": "Suru Valley",
@@ -1122,7 +1246,8 @@
       "nature, relaxed, hiking"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "suru-valley"
   },
   {
     "name": "Unakoti",
@@ -1131,7 +1256,8 @@
       "history, religious, nature"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "unakoti"
   },
   {
     "name": "Puri Jagannath Temple",
@@ -1140,7 +1266,8 @@
       "religious, culture, history"
     ],
     "rating": 4.9,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "puri-jagannath-temple"
   },
   {
     "name": "Dharamshala McLeod Ganj",
@@ -1149,7 +1276,8 @@
       "culture, religious, hiking"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "dharamshala-mcleod-ganj"
   },
   {
     "name": "Magnetic Hill",
@@ -1158,7 +1286,8 @@
       "nature, adventure, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "magnetic-hill"
   },
   {
     "name": "Mussoorie Mall Road",
@@ -1167,7 +1296,8 @@
       "shopping, nature, food"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "mussoorie-mall-road"
   },
   {
     "name": "Jallianwala Bagh",
@@ -1176,7 +1306,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "jallianwala-bagh"
   },
   {
     "name": "Mysore Palace",
@@ -1185,7 +1316,8 @@
       "history, culture, shopping"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "mysore-palace"
   },
   {
     "name": "Manas National Park",
@@ -1194,7 +1326,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "manas-national-park"
   },
   {
     "name": "Ziro Valley",
@@ -1203,7 +1336,8 @@
       "culture, nature, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "ziro-valley"
   },
   {
     "name": "Gokarna Main Beach",
@@ -1212,7 +1346,8 @@
       "beach, religious, sunset"
     ],
     "rating": 4.2,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "gokarna-main-beach"
   },
   {
     "name": "Murud Janjira Fort",
@@ -1221,7 +1356,8 @@
       "history, nature, adventure"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "murud-janjira-fort"
   },
   {
     "name": "Umananda Island",
@@ -1230,7 +1366,8 @@
       "religious, nature, sunset"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "umananda-island"
   },
   {
     "name": "Kalsubai Peak",
@@ -1239,7 +1376,8 @@
       "hiking, adventure, nature"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kalsubai-peak"
   },
   {
     "name": "Sanjay Gandhi National Park",
@@ -1248,7 +1386,8 @@
       "wildlife, nature, hiking"
     ],
     "rating": 4.2,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "sanjay-gandhi-national-park"
   },
   {
     "name": "Kankaria Lake",
@@ -1257,7 +1396,8 @@
       "relaxed, food, party"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kankaria-lake"
   },
   {
     "name": "Zanskar Valley",
@@ -1266,7 +1406,8 @@
       "nature, adventure, hiking"
     ],
     "rating": 4.8,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "zanskar-valley"
   },
   {
     "name": "Meenakshi Temple",
@@ -1275,7 +1416,8 @@
       "religious, culture, history"
     ],
     "rating": 4.9,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "meenakshi-temple"
   },
   {
     "name": "Fort St. George",
@@ -1284,7 +1426,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.3,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "fort-st-george"
   },
   {
     "name": "Patna Sahib",
@@ -1293,7 +1436,8 @@
       "religious, culture, history"
     ],
     "rating": 4.7,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "patna-sahib"
   },
   {
     "name": "Vrindavan",
@@ -1302,7 +1446,8 @@
       "religious, culture, history"
     ],
     "rating": 4.7,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "vrindavan"
   },
   {
     "name": "Fort Aguada",
@@ -1311,7 +1456,8 @@
       "history, sunset, nature"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "fort-aguada"
   },
   {
     "name": "Nagoa Beach",
@@ -1320,7 +1466,8 @@
       "beach, party, relaxed"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "nagoa-beach"
   },
   {
     "name": "Ramoji Film City",
@@ -1329,7 +1476,8 @@
       "culture, adventure, party"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "ramoji-film-city"
   },
   {
     "name": "Akshardham Gandhinagar",
@@ -1338,7 +1486,8 @@
       "religious, culture, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "akshardham-gandhinagar"
   },
   {
     "name": "Bhimbetka Rock Shelters",
@@ -1347,7 +1496,8 @@
       "history, culture, nature"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "bhimbetka-rock-shelters"
   },
   {
     "name": "Loktak Lake",
@@ -1356,7 +1506,8 @@
       "nature, wildlife, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "loktak-lake"
   },
   {
     "name": "Humayuns Tomb",
@@ -1365,7 +1516,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "humayuns-tomb"
   },
   {
     "name": "Udayagiri Caves",
@@ -1374,7 +1526,8 @@
       "history, culture, nature"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "udayagiri-caves"
   },
   {
     "name": "Elephant Beach",
@@ -1383,7 +1536,8 @@
       "beach, adventure, waterfall"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "elephant-beach"
   },
   {
     "name": "Kumarakom",
@@ -1392,7 +1546,8 @@
       "nature, relaxed, wildlife"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "kumarakom"
   },
   {
     "name": "Wagah Border",
@@ -1401,7 +1556,8 @@
       "culture, history, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "wagah-border"
   },
   {
     "name": "Garo Hills",
@@ -1410,7 +1566,8 @@
       "nature, hiking, wildlife"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "garo-hills"
   },
   {
     "name": "Marina Beach",
@@ -1419,7 +1576,8 @@
       "beach, food, sunset"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "marina-beach"
   },
   {
     "name": "Sinhagad Fort",
@@ -1428,7 +1586,8 @@
       "history, hiking, nature"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "sinhagad-fort"
   },
   {
     "name": "Mawlynnong",
@@ -1437,7 +1596,8 @@
       "nature, culture, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "mawlynnong"
   },
   {
     "name": "Nagarhole National Park",
@@ -1446,7 +1606,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "nagarhole-national-park"
   },
   {
     "name": "Dawki River",
@@ -1455,7 +1616,8 @@
       "nature, adventure, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "dawki-river"
   },
   {
     "name": "Jantar Mantar Jaipur",
@@ -1464,7 +1626,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "jantar-mantar-jaipur"
   },
   {
     "name": "Baga Beach",
@@ -1473,7 +1636,8 @@
       "beach, nightlife, party"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "baga-beach"
   },
   {
     "name": "Chandratal Lake",
@@ -1482,7 +1646,8 @@
       "nature, adventure, sunset"
     ],
     "rating": 4.9,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "chandratal-lake"
   },
   {
     "name": "Teerathgarh Falls",
@@ -1491,7 +1656,8 @@
       "waterfall, nature, hiking"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "teerathgarh-falls"
   },
   {
     "name": "Baratang Island",
@@ -1500,7 +1666,8 @@
       "nature, adventure, wildlife"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "baratang-island"
   },
   {
     "name": "Mudumalai National Park",
@@ -1509,7 +1676,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "mudumalai-national-park"
   },
   {
     "name": "Sabarmati Ashram",
@@ -1518,7 +1686,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "sabarmati-ashram"
   },
   {
     "name": "Yarada Beach",
@@ -1527,7 +1696,8 @@
       "beach, nature, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "yarada-beach"
   },
   {
     "name": "Brahma Temple",
@@ -1536,7 +1706,8 @@
       "religious, culture, history"
     ],
     "rating": 4.5,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "brahma-temple"
   },
   {
     "name": "Somnath Temple",
@@ -1545,7 +1716,8 @@
       "religious, culture, history"
     ],
     "rating": 4.9,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "somnath-temple"
   },
   {
     "name": "Mehrangarh Fort",
@@ -1554,7 +1726,8 @@
       "history, culture, sunset"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "mehrangarh-fort"
   },
   {
     "name": "Pratapgad Fort",
@@ -1563,7 +1736,8 @@
       "history, nature, hiking"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "pratapgad-fort"
   },
   {
     "name": "Akshardham Delhi",
@@ -1572,7 +1746,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "akshardham-delhi"
   },
   {
     "name": "Dudhsagar Waterfalls",
@@ -1581,7 +1756,8 @@
       "waterfall, nature, adventure"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "dudhsagar-waterfalls"
   },
   {
     "name": "Dzukou Valley",
@@ -1590,7 +1766,8 @@
       "hiking, nature, relaxed"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "dzukou-valley"
   },
   {
     "name": "Coonoor",
@@ -1599,7 +1776,8 @@
       "nature, relaxed, hiking"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "coonoor"
   },
   {
     "name": "Auli",
@@ -1608,7 +1786,8 @@
       "adventure, nature, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "auli"
   },
   {
     "name": "Triund Trek",
@@ -1617,7 +1796,8 @@
       "hiking, nature, sunset"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "triund-trek"
   },
   {
     "name": "Omkareshwar",
@@ -1626,7 +1806,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "omkareshwar"
   },
   {
     "name": "Qutub Minar",
@@ -1635,7 +1816,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "qutub-minar"
   },
   {
     "name": "Jim Corbett National Park",
@@ -1644,7 +1826,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "jim-corbett-national-park"
   },
   {
     "name": "Gir National Park",
@@ -1653,7 +1836,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "gir-national-park"
   },
   {
     "name": "Neermahal",
@@ -1662,7 +1846,8 @@
       "history, culture, nature"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "neermahal"
   },
   {
     "name": "Kalimpong",
@@ -1671,7 +1856,8 @@
       "nature, culture, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "kalimpong"
   },
   {
     "name": "Pinjore Gardens",
@@ -1680,7 +1866,8 @@
       "nature, history, relaxed"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "pinjore-gardens"
   },
   {
     "name": "Spiti Valley",
@@ -1689,7 +1876,8 @@
       "nature, adventure, culture"
     ],
     "rating": 4.9,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "spiti-valley"
   },
   {
     "name": "Taj Mahal",
@@ -1698,7 +1886,8 @@
       "history, culture, sunset"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "taj-mahal"
   },
   {
     "name": "Agumbe",
@@ -1707,7 +1896,8 @@
       "nature, sunset, wildlife"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "agumbe"
   },
   {
     "name": "Raigad Fort",
@@ -1716,7 +1906,8 @@
       "history, hiking, nature"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "raigad-fort"
   },
   {
     "name": "Jampore Beach",
@@ -1725,7 +1916,8 @@
       "beach, relaxed, food"
     ],
     "rating": 4.3,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "jampore-beach"
   },
   {
     "name": "Kinnaur Kailash",
@@ -1734,7 +1926,8 @@
       "nature, religious, hiking"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "kinnaur-kailash"
   },
   {
     "name": "Elephant Falls",
@@ -1743,7 +1936,8 @@
       "waterfall, nature, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "elephant-falls"
   },
   {
     "name": "Nohkalikai Falls",
@@ -1752,7 +1946,8 @@
       "waterfall, nature, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "nohkalikai-falls"
   },
   {
     "name": "Jaisalmer Fort",
@@ -1761,7 +1956,8 @@
       "history, culture, sunset"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "jaisalmer-fort"
   },
   {
     "name": "Badrinath Temple",
@@ -1770,7 +1966,8 @@
       "religious, culture, history"
     ],
     "rating": 4.9,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "badrinath-temple"
   },
   {
     "name": "Golden Beach",
@@ -1779,7 +1976,8 @@
       "beach, sunset, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "golden-beach"
   },
   {
     "name": "Dwarkadhish Temple",
@@ -1788,7 +1986,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "dwarkadhish-temple"
   },
   {
     "name": "City Palace Jaipur",
@@ -1797,7 +1996,8 @@
       "history, culture, shopping"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "city-palace-jaipur"
   },
   {
     "name": "Mirik",
@@ -1806,7 +2006,8 @@
       "nature, relaxed, sunset"
     ],
     "rating": 4.4,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "mirik"
   },
   {
     "name": "Yumthang Valley",
@@ -1815,7 +2016,8 @@
       "nature, relaxed, sunset"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "yumthang-valley"
   },
   {
     "name": "Dongargarh",
@@ -1824,7 +2026,8 @@
       "religious, nature, hiking"
     ],
     "rating": 4.4,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "dongargarh"
   },
   {
     "name": "Sam Sand Dunes",
@@ -1833,7 +2036,8 @@
       "adventure, nature, sunset"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "sam-sand-dunes"
   },
   {
     "name": "Dirang",
@@ -1842,7 +2046,8 @@
       "nature, culture, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "dirang"
   },
   {
     "name": "Khonoma Village",
@@ -1851,7 +2056,8 @@
       "culture, nature, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "khonoma-village"
   },
   {
     "name": "Mainpat",
@@ -1860,7 +2066,8 @@
       "nature, culture, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "mainpat"
   },
   {
     "name": "Har Ki Pauri",
@@ -1869,7 +2076,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "har-ki-pauri"
   },
   {
     "name": "Nainital Lake",
@@ -1878,7 +2086,8 @@
       "nature, relaxed, sunset"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "nainital-lake"
   },
   {
     "name": "Pondicherry French Quarter",
@@ -1887,7 +2096,8 @@
       "culture, relaxed, food"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "pondicherry-french-quarter"
   },
   {
     "name": "Paradise Beach",
@@ -1896,7 +2106,8 @@
       "beach, hiking, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "paradise-beach"
   },
   {
     "name": "Deoghar",
@@ -1905,7 +2116,8 @@
       "religious, culture, history"
     ],
     "rating": 4.7,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "deoghar"
   },
   {
     "name": "Sarnath",
@@ -1914,7 +2126,8 @@
       "history, religious, culture"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "sarnath"
   },
   {
     "name": "Radhanagar Beach",
@@ -1923,7 +2136,8 @@
       "beach, sunset, nature"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "radhanagar-beach"
   },
   {
     "name": "Cherrapunji",
@@ -1932,7 +2146,8 @@
       "waterfall, nature, hiking"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "cherrapunji"
   },
   {
     "name": "Mathura Krishna Janmabhoomi",
@@ -1941,7 +2156,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "mathura-krishna-janmabhoomi"
   },
   {
     "name": "Statue of Unity",
@@ -1950,7 +2166,8 @@
       "culture, history, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "statue-of-unity"
   },
   {
     "name": "Rann of Kutch",
@@ -1959,7 +2176,8 @@
       "nature, culture, sunset"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "rann-of-kutch"
   },
   {
     "name": "Dal Lake",
@@ -1968,7 +2186,8 @@
       "nature, sunset, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "dal-lake"
   },
   {
     "name": "Tsomgo Lake",
@@ -1977,7 +2196,8 @@
       "nature, adventure, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "tsomgo-lake"
   },
   {
     "name": "Athirappilly Waterfalls",
@@ -1986,7 +2206,8 @@
       "waterfall, nature, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "athirappilly-waterfalls"
   },
   {
     "name": "Wandoor Beach",
@@ -1995,7 +2216,8 @@
       "beach, relaxed, nature"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "wandoor-beach"
   },
   {
     "name": "Auroville",
@@ -2004,7 +2226,8 @@
       "culture, relaxed, nature"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "auroville"
   },
   {
     "name": "Howrah Bridge",
@@ -2013,7 +2236,8 @@
       "culture, history, sunset"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "howrah-bridge"
   },
   {
     "name": "Charminar",
@@ -2022,7 +2246,8 @@
       "history, culture, shopping"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "charminar"
   },
   {
     "name": "City Palace Udaipur",
@@ -2031,7 +2256,8 @@
       "history, culture, sunset"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "city-palace-udaipur"
   },
   {
     "name": "Ajanta Caves",
@@ -2040,7 +2266,8 @@
       "history, culture, religious"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "ajanta-caves"
   },
   {
     "name": "Ranthambore National Park",
@@ -2049,7 +2276,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "ranthambore-national-park"
   },
   {
     "name": "Padmanabhaswamy Temple",
@@ -2058,7 +2286,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "padmanabhaswamy-temple"
   },
   {
     "name": "Khandala",
@@ -2067,7 +2296,8 @@
       "nature, hiking, relaxed"
     ],
     "rating": 4.2,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "khandala"
   },
   {
     "name": "Kakolat Waterfall",
@@ -2076,7 +2306,8 @@
       "waterfall, nature, relaxed"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kakolat-waterfall"
   },
   {
     "name": "Jonha Falls",
@@ -2085,7 +2316,8 @@
       "waterfall, nature, relaxed"
     ],
     "rating": 4.3,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "jonha-falls"
   },
   {
     "name": "Chittorgarh Fort",
@@ -2094,7 +2326,8 @@
       "history, culture, nature"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "chittorgarh-fort"
   },
   {
     "name": "Solang Valley",
@@ -2103,7 +2336,8 @@
       "adventure, nature, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "solang-valley"
   },
   {
     "name": "Pench National Park",
@@ -2112,7 +2346,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "pench-national-park"
   },
   {
     "name": "Marari Beach",
@@ -2121,7 +2356,8 @@
       "beach, relaxed, nature"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "marari-beach"
   },
   {
     "name": "Kheerganga",
@@ -2130,7 +2366,8 @@
       "hiking, nature, adventure"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kheerganga"
   },
   {
     "name": "Nanda Devi National Park",
@@ -2139,7 +2376,8 @@
       "wildlife, nature, hiking"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "nanda-devi-national-park"
   },
   {
     "name": "Varanasi Ghats",
@@ -2148,7 +2386,8 @@
       "religious, culture, sunset"
     ],
     "rating": 4.9,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "varanasi-ghats"
   },
   {
     "name": "Bhujia Fort",
@@ -2157,7 +2396,8 @@
       "history, sunset, hiking"
     ],
     "rating": 4.4,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "bhujia-fort"
   },
   {
     "name": "Promenade Beach",
@@ -2166,7 +2406,8 @@
       "beach, sunset, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "promenade-beach"
   },
   {
     "name": "Simlipal National Park",
@@ -2175,7 +2416,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "simlipal-national-park"
   },
   {
     "name": "Hundru Falls",
@@ -2184,7 +2426,8 @@
       "waterfall, nature, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "hundru-falls"
   },
   {
     "name": "Chikmagalur",
@@ -2193,7 +2436,8 @@
       "nature, relaxed, hiking"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "chikmagalur"
   },
   {
     "name": "Brihadeeswarar Temple",
@@ -2202,7 +2446,8 @@
       "history, religious, culture"
     ],
     "rating": 4.9,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "brihadeeswarar-temple"
   },
   {
     "name": "Old Manali",
@@ -2211,7 +2456,8 @@
       "culture, party, food"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "old-manali"
   },
   {
     "name": "Jakhoo Temple",
@@ -2220,7 +2466,8 @@
       "religious, nature, hiking"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "jakhoo-temple"
   },
   {
     "name": "Hampi",
@@ -2229,7 +2476,8 @@
       "history, culture, sunset"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "hampi"
   },
   {
     "name": "Fatehpur Sikri",
@@ -2238,7 +2486,8 @@
       "history, culture, religious"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "fatehpur-sikri"
   },
   {
     "name": "Reiek",
@@ -2247,7 +2496,8 @@
       "hiking, nature, sunset"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "reiek"
   },
   {
     "name": "Kashid Beach",
@@ -2256,7 +2506,8 @@
       "beach, sunset, relaxed"
     ],
     "rating": 4.4,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "kashid-beach"
   },
   {
     "name": "Triveni Sangam",
@@ -2265,7 +2516,8 @@
       "religious, culture, history"
     ],
     "rating": 4.8,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "triveni-sangam"
   },
   {
     "name": "Khardung La",
@@ -2274,7 +2526,8 @@
       "adventure, nature, history"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "khardung-la"
   },
   {
     "name": "Uparkot Fort",
@@ -2283,7 +2536,8 @@
       "history, culture, nature"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "uparkot-fort"
   },
   {
     "name": "Pachmarhi",
@@ -2292,7 +2546,8 @@
       "nature, waterfall, sunset"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "pachmarhi"
   },
   {
     "name": "Bomdila",
@@ -2301,7 +2556,8 @@
       "nature, culture, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "bomdila"
   },
   {
     "name": "Batasia Loop",
@@ -2310,7 +2566,8 @@
       "history, nature, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "batasia-loop"
   },
   {
     "name": "Marble Rocks",
@@ -2319,7 +2576,8 @@
       "nature, adventure, sunset"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "marble-rocks"
   },
   {
     "name": "Sirpur",
@@ -2328,7 +2586,8 @@
       "history, religious, culture"
     ],
     "rating": 4.4,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "sirpur"
   },
   {
     "name": "Hussain Sagar",
@@ -2337,7 +2596,8 @@
       "sunset, relaxed, food"
     ],
     "rating": 4.3,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "hussain-sagar"
   },
   {
     "name": "Chitrakoot Falls",
@@ -2346,7 +2606,8 @@
       "waterfall, nature, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "chitrakoot-falls"
   },
   {
     "name": "Mandvi Beach",
@@ -2355,7 +2616,8 @@
       "beach, sunset, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "mandvi-beach"
   },
   {
     "name": "Nubra Valley",
@@ -2364,7 +2626,8 @@
       "nature, adventure, culture"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "nubra-valley"
   },
   {
     "name": "Gulmarg Gondola",
@@ -2373,7 +2636,8 @@
       "adventure, nature, relaxed"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "gulmarg-gondola"
   },
   {
     "name": "Wayanad",
@@ -2382,7 +2646,8 @@
       "nature, hiking, waterfall"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "wayanad"
   },
   {
     "name": "Neil Island",
@@ -2391,7 +2656,8 @@
       "beach, sunset, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "neil-island"
   },
   {
     "name": "Kedarnath Temple",
@@ -2400,7 +2666,8 @@
       "religious, hiking, history"
     ],
     "rating": 4.9,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "kedarnath-temple"
   },
   {
     "name": "Gurudongmar Lake",
@@ -2409,7 +2676,8 @@
       "nature, adventure, relaxed"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "gurudongmar-lake"
   },
   {
     "name": "Rajgir",
@@ -2418,7 +2686,8 @@
       "history, religious, nature"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "rajgir"
   },
   {
     "name": "Shirdi",
@@ -2427,7 +2696,8 @@
       "religious, culture, history"
     ],
     "rating": 4.7,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "shirdi"
   },
   {
     "name": "Half Moon Beach",
@@ -2436,7 +2706,8 @@
       "beach, relaxed, nature"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "half-moon-beach"
   },
   {
     "name": "Bhitarkanika National Park",
@@ -2445,7 +2716,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "bhitarkanika-national-park"
   },
   {
     "name": "Mandu",
@@ -2454,7 +2726,8 @@
       "history, culture, nature"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "mandu"
   },
   {
     "name": "Ravangla",
@@ -2463,7 +2736,8 @@
       "nature, culture, relaxed"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "ravangla"
   },
   {
     "name": "Coorg",
@@ -2472,7 +2746,8 @@
       "nature, relaxed, food"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "coorg"
   },
   {
     "name": "Ghatshila",
@@ -2481,7 +2756,8 @@
       "nature, relaxed, sunset"
     ],
     "rating": 4.2,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "ghatshila"
   },
   {
     "name": "Ooty",
@@ -2490,7 +2766,8 @@
       "nature, relaxed, shopping"
     ],
     "rating": 4.5,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "ooty"
   },
   {
     "name": "Rishikesh Laxman Jhula",
@@ -2499,7 +2776,8 @@
       "religious, culture, adventure"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "rishikesh-laxman-jhula"
   },
   {
     "name": "Polo Forest",
@@ -2508,7 +2786,8 @@
       "nature, history, hiking"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "polo-forest"
   },
   {
     "name": "Harishchandragad",
@@ -2517,7 +2796,8 @@
       "hiking, history, nature"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "harishchandragad"
   },
   {
     "name": "Namdapha National Park",
@@ -2526,7 +2806,8 @@
       "wildlife, nature, hiking"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "namdapha-national-park"
   },
   {
     "name": "Sanchi Stupa",
@@ -2535,7 +2816,8 @@
       "history, religious, culture"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "sanchi-stupa"
   },
   {
     "name": "Ujjain Mahakaleshwar",
@@ -2544,7 +2826,8 @@
       "religious, culture, history"
     ],
     "rating": 4.9,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "ujjain-mahakaleshwar"
   },
   {
     "name": "Alleppey Backwaters",
@@ -2553,7 +2836,8 @@
       "nature, relaxed, culture"
     ],
     "rating": 4.8,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "alleppey-backwaters"
   },
   {
     "name": "Betla National Park",
@@ -2562,7 +2846,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "betla-national-park"
   },
   {
     "name": "Chidiya Tapu",
@@ -2571,7 +2856,8 @@
       "beach, sunset, wildlife"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "chidiya-tapu"
   },
   {
     "name": "Kadmat Island",
@@ -2580,7 +2866,8 @@
       "beach, adventure, nature"
     ],
     "rating": 4.6,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "kadmat-island"
   },
   {
     "name": "Khajuraho Group of Monuments",
@@ -2589,7 +2876,8 @@
       "history, culture, religious"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "khajuraho-group-of-monuments"
   },
   {
     "name": "Digha Beach",
@@ -2598,7 +2886,8 @@
       "beach, sunset, food"
     ],
     "rating": 4.3,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "digha-beach"
   },
   {
     "name": "Tirupati Balaji",
@@ -2607,7 +2896,8 @@
       "religious, culture, history"
     ],
     "rating": 4.9,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "tirupati-balaji"
   },
   {
     "name": "Tso Moriri",
@@ -2616,7 +2906,8 @@
       "nature, sunset, relaxed"
     ],
     "rating": 4.8,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "tso-moriri"
   },
   {
     "name": "Kanha National Park",
@@ -2625,7 +2916,8 @@
       "wildlife, nature, adventure"
     ],
     "rating": 4.9,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kanha-national-park"
   },
   {
     "name": "Kavaratti Island",
@@ -2634,7 +2926,8 @@
       "beach, culture, nature"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "kavaratti-island"
   },
   {
     "name": "Golconda Fort",
@@ -2643,7 +2936,8 @@
       "history, culture, sunset"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "golconda-fort"
   },
   {
     "name": "Basilica of Bom Jesus",
@@ -2652,7 +2946,8 @@
       "history, religious, culture"
     ],
     "rating": 4.6,
-    "crowd_pattern": "festival_high"
+    "crowd_pattern": "festival_high",
+    "id": "basilica-of-bom-jesus"
   },
   {
     "name": "Kohima War Cemetery",
@@ -2661,7 +2956,8 @@
       "history, culture, relaxed"
     ],
     "rating": 4.7,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "kohima-war-cemetery"
   },
   {
     "name": "Champaner Pavagadh",
@@ -2670,7 +2966,8 @@
       "history, religious, nature"
     ],
     "rating": 4.6,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "champaner-pavagadh"
   },
   {
     "name": "Bakkhali",
@@ -2679,7 +2976,8 @@
       "beach, nature, relaxed"
     ],
     "rating": 4.5,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "bakkhali"
   },
   {
     "name": "Nakki Lake",
@@ -2688,7 +2986,8 @@
       "nature, relaxed, sunset"
     ],
     "rating": 4.4,
-    "crowd_pattern": "weekend_high"
+    "crowd_pattern": "weekend_high",
+    "id": "nakki-lake"
   },
   {
     "name": "Minicoy Island",
@@ -2697,6 +2996,7 @@
       "beach, culture, history"
     ],
     "rating": 4.7,
-    "crowd_pattern": "low"
+    "crowd_pattern": "low",
+    "id": "minicoy-island"
   }
 ]
